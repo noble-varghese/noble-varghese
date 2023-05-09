@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=aymanbagabas&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=noble-varghese&label=PROFILE+VIEWS)
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
@@ -22,17 +22,17 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
-{{range rss "https://aymanbagabas.com/blog/feed.xml" 5}}
+<!-- #### 📜 My recent blog posts
+{{range rss "https://noble-varghese.com/blog/feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+{{- end}} -->
 
 #### ⭐ Recent Stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 📫 How to reach me
+<!-- #### 📫 How to reach me
 
-- Twitter: https://twitter.com/aymanbagabas
-- Blog: https://aymanbagabas.com/blog
+- Twitter: https://twitter.com/noble-varghese
+- Blog: https://noble-varghese.com/blog -->
