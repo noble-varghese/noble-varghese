@@ -22,17 +22,8 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-<!-- #### 📜 My recent blog posts
-{{range rss "https://noble-varghese.com/blog/feed.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}} -->
 
 #### ⭐ Recent Stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
-
-<!-- #### 📫 How to reach me
-
-- Twitter: https://twitter.com/noble-varghese
-- Blog: https://noble-varghese.com/blog -->
