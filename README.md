@@ -6,7 +6,7 @@
 
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (1 week ago)
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) - Tool to copy things! (3 weeks ago)
-- [noble-varghese/grep-cli](https://github.com/noble-varghese/grep-cli) - A cli tool that implements the grep functionality. (3 weeks ago)
+- [noble-varghese/grep-cli](https://github.com/noble-varghese/grep-cli) - A cli tool that implements the grep functionality. (4 weeks ago)
 - [noble-varghese/rust-by-example](https://github.com/noble-varghese/rust-by-example) - Learning rust by example. (4 weeks ago)
 
 #### 🌱 My latest projects
