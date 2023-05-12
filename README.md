@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (1 week ago)
+- [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (2 weeks ago)
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) - Tool to copy things! (4 weeks ago)
-- [noble-varghese/grep-cli](https://github.com/noble-varghese/grep-cli) - A cli tool that implements the grep functionality. (4 weeks ago)
+- [noble-varghese/grep-cli](https://github.com/noble-varghese/grep-cli) - A cli tool that implements the grep functionality. (1 month ago)
 - [noble-varghese/rust-by-example](https://github.com/noble-varghese/rust-by-example) - Learning rust by example. (1 month ago)
 
 #### 🌱 My latest projects
@@ -30,5 +30,5 @@
 #### ⭐ Recent Stars
 
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (1 week ago)
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (1 week ago)
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (2 weeks ago)
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) - Tool to copy things! (4 weeks ago)
