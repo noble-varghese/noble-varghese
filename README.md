@@ -21,9 +21,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: updating the author name and blog details](https://github.com/noble-varghese/portfolio/pull/3) on [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) (3 weeks ago)
-- [fix: fixes on the new article](https://github.com/noble-varghese/portfolio/pull/2) on [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) (3 weeks ago)
-- [feat: adding the netflix articles](https://github.com/noble-varghese/portfolio/pull/1) on [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) (3 weeks ago)
+- [fix: updating the author name and blog details](https://github.com/noble-varghese/portfolio/pull/3) on [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) (4 weeks ago)
+- [fix: fixes on the new article](https://github.com/noble-varghese/portfolio/pull/2) on [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) (4 weeks ago)
+- [feat: adding the netflix articles](https://github.com/noble-varghese/portfolio/pull/1) on [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) (4 weeks ago)
 - [fix: fixing zp panics when file doesn&#39;t exist Issue #1](https://github.com/bahdotsh/zp/pull/8) on [bahdotsh/zp](https://github.com/bahdotsh/zp) (1 month ago)
 
 
