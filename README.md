@@ -1,6 +1,7 @@
-### Hello there 👋
-
+### Hi there 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=noble-varghese&label=PROFILE+VIEWS)
+
+I'm Noble Varghese, a passionate Backend developer with a love for innovation and a knack for turning ideas into reality. My profile is a glimpse into my journey of exploration, creation, and continuous learning. Curious about what I have been working on ?
 
 #### 👷 Check out what I'm currently working on
 
@@ -32,3 +33,11 @@
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (3 weeks ago)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (3 weeks ago)
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) - Tool to copy things! (1 month ago)
+
+#### 💬 Feedback
+
+If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
+
+#### 📫 How to reach me
+
+- Email: noblekvarghese96@gmail.com
