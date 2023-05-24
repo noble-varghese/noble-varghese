@@ -38,3 +38,4 @@ If you use one of my projects, I'd love to hear from you! Don't be shy and let m
 #### 📫 How to reach me
 
 - Email: noblekvarghese96@gmail.com
+- Linkedin: www.linkedin.com/in/noble-k-varghese
