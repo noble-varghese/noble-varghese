@@ -7,6 +7,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 👷 Check out what I'm currently working on
 
+- [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience (3 days ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (4 weeks ago)
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) - Tool to copy things! (1 month ago)
 - [noble-varghese/grep-cli](https://github.com/noble-varghese/grep-cli) - A cli tool that implements the grep functionality. (1 month ago)
@@ -14,6 +15,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 🌱 My latest projects
 
+- [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro
 - [noble-varghese/grep-cli](https://github.com/noble-varghese/grep-cli) - A cli tool that implements the grep functionality.
 - [noble-varghese/rust-by-example](https://github.com/noble-varghese/rust-by-example) - Learning rust by example.
@@ -24,10 +26,11 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 🔨 My recent Pull Requests
 
-- [fix: updating the author name and blog details](https://github.com/noble-varghese/portfolio/pull/3) on [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) (1 month ago)
-- [fix: fixes on the new article](https://github.com/noble-varghese/portfolio/pull/2) on [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) (1 month ago)
-- [feat: adding the netflix articles](https://github.com/noble-varghese/portfolio/pull/1) on [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) (1 month ago)
-- [fix: fixing zp panics when file doesn&#39;t exist Issue #1](https://github.com/bahdotsh/zp/pull/8) on [bahdotsh/zp](https://github.com/bahdotsh/zp) (1 month ago)
+- [docs: updating the contributing.md file](https://github.com/noble-varghese/neon_style/pull/21) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 days ago)
+- [docs: adding the contribution guidelines](https://github.com/noble-varghese/neon_style/pull/20) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 days ago)
+- [ci: Adding a changelog checker](https://github.com/noble-varghese/neon_style/pull/19) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 days ago)
+- [docs: Update the readme for neon style](https://github.com/noble-varghese/neon_style/pull/18) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (4 days ago)
+- [build: adding a PR template](https://github.com/noble-varghese/neon_style/pull/17) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (5 days ago)
 
 
 #### ⭐ Recent Stars
