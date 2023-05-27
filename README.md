@@ -26,11 +26,11 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 🔨 My recent Pull Requests
 
+- [chore: Create CODE_OF_CONDUCT.md](https://github.com/noble-varghese/neon_style/pull/25) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (today)
+- [Update issue templates](https://github.com/noble-varghese/neon_style/pull/24) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (today)
 - [fix: fixing the version of the crate](https://github.com/noble-varghese/neon_style/pull/23) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (today)
 - [build: Updating the toml for publishing to crates.io](https://github.com/noble-varghese/neon_style/pull/22) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (today)
 - [docs: updating the contributing.md file](https://github.com/noble-varghese/neon_style/pull/21) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 days ago)
-- [docs: adding the contribution guidelines](https://github.com/noble-varghese/neon_style/pull/20) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 days ago)
-- [ci: Adding a changelog checker](https://github.com/noble-varghese/neon_style/pull/19) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 days ago)
 
 
 #### ⭐ Recent Stars
