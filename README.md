@@ -7,7 +7,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 👷 Check out what I'm currently working on
 
-- [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience (3 days ago)
+- [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience (today)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (4 weeks ago)
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) - Tool to copy things! (1 month ago)
 - [noble-varghese/grep-cli](https://github.com/noble-varghese/grep-cli) - A cli tool that implements the grep functionality. (1 month ago)
@@ -26,11 +26,11 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 🔨 My recent Pull Requests
 
+- [fix: fixing the version of the crate](https://github.com/noble-varghese/neon_style/pull/23) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (today)
+- [build: Updating the toml for publishing to crates.io](https://github.com/noble-varghese/neon_style/pull/22) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (today)
 - [docs: updating the contributing.md file](https://github.com/noble-varghese/neon_style/pull/21) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 days ago)
 - [docs: adding the contribution guidelines](https://github.com/noble-varghese/neon_style/pull/20) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 days ago)
 - [ci: Adding a changelog checker](https://github.com/noble-varghese/neon_style/pull/19) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 days ago)
-- [docs: Update the readme for neon style](https://github.com/noble-varghese/neon_style/pull/18) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (4 days ago)
-- [build: adding a PR template](https://github.com/noble-varghese/neon_style/pull/17) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (5 days ago)
 
 
 #### ⭐ Recent Stars
