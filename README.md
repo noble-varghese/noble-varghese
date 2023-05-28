@@ -8,7 +8,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 #### 👷 Check out what I'm currently working on
 
 - [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience (today)
-- [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (4 weeks ago)
+- [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (1 month ago)
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) - Tool to copy things! (1 month ago)
 - [noble-varghese/grep-cli](https://github.com/noble-varghese/grep-cli) - A cli tool that implements the grep functionality. (1 month ago)
 - [noble-varghese/rust-by-example](https://github.com/noble-varghese/rust-by-example) - Learning rust by example. (1 month ago)
@@ -26,19 +26,19 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 🔨 My recent Pull Requests
 
-- [docs: Update README.md](https://github.com/noble-varghese/neon_style/pull/26) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (today)
-- [chore: Create CODE_OF_CONDUCT.md](https://github.com/noble-varghese/neon_style/pull/25) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (today)
-- [Update issue templates](https://github.com/noble-varghese/neon_style/pull/24) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (today)
-- [fix: fixing the version of the crate](https://github.com/noble-varghese/neon_style/pull/23) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (today)
-- [build: Updating the toml for publishing to crates.io](https://github.com/noble-varghese/neon_style/pull/22) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (today)
+- [docs: Update README.md](https://github.com/noble-varghese/neon_style/pull/26) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (1 day ago)
+- [chore: Create CODE_OF_CONDUCT.md](https://github.com/noble-varghese/neon_style/pull/25) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (1 day ago)
+- [Update issue templates](https://github.com/noble-varghese/neon_style/pull/24) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (1 day ago)
+- [fix: fixing the version of the crate](https://github.com/noble-varghese/neon_style/pull/23) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (1 day ago)
+- [build: Updating the toml for publishing to crates.io](https://github.com/noble-varghese/neon_style/pull/22) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (1 day ago)
 
 
 #### ⭐ Recent Stars
 
-- [namespacelabs/breakpoint](https://github.com/namespacelabs/breakpoint) - Add breakpoints to CI: pause, access the workflow with SSH, debug and resume. (2 days ago)
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (2 days ago)
+- [namespacelabs/breakpoint](https://github.com/namespacelabs/breakpoint) - Add breakpoints to CI: pause, access the workflow with SSH, debug and resume. (3 days ago)
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (3 days ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (4 weeks ago)
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (4 weeks ago)
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (1 month ago)
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) - Tool to copy things! (1 month ago)
 
 #### 💬 Feedback
