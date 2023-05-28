@@ -8,7 +8,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 #### 👷 Check out what I'm currently working on
 
 - [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience (today)
-- [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (1 month ago)
+- [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (today)
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) - Tool to copy things! (1 month ago)
 - [noble-varghese/grep-cli](https://github.com/noble-varghese/grep-cli) - A cli tool that implements the grep functionality. (1 month ago)
 - [noble-varghese/rust-by-example](https://github.com/noble-varghese/rust-by-example) - Learning rust by example. (1 month ago)
