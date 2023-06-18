@@ -7,8 +7,8 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 👷 Check out what I'm currently working on
 
-- [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience (2 weeks ago)
-- [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (2 weeks ago)
+- [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience (3 weeks ago)
+- [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (3 weeks ago)
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) - Tool to copy things! (2 months ago)
 - [noble-varghese/grep-cli](https://github.com/noble-varghese/grep-cli) - A cli tool that implements the grep functionality. (2 months ago)
 - [noble-varghese/rust-by-example](https://github.com/noble-varghese/rust-by-example) - Learning rust by example. (2 months ago)
@@ -26,7 +26,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 🔨 My recent Pull Requests
 
-- [build: Update issue templates](https://github.com/noble-varghese/neon_style/pull/27) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (2 weeks ago)
+- [build: Update issue templates](https://github.com/noble-varghese/neon_style/pull/27) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 weeks ago)
 - [docs: Update README.md](https://github.com/noble-varghese/neon_style/pull/26) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 weeks ago)
 - [chore: Create CODE_OF_CONDUCT.md](https://github.com/noble-varghese/neon_style/pull/25) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 weeks ago)
 - [Update issue templates](https://github.com/noble-varghese/neon_style/pull/24) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 weeks ago)
