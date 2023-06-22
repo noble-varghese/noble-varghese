@@ -27,11 +27,11 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Fixing the pylint error on the loggers.](https://github.com/jerryjliu/llama_index/pull/6549) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (today)
 - [build: Update issue templates](https://github.com/noble-varghese/neon_style/pull/27) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 weeks ago)
 - [docs: Update README.md](https://github.com/noble-varghese/neon_style/pull/26) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 weeks ago)
 - [chore: Create CODE_OF_CONDUCT.md](https://github.com/noble-varghese/neon_style/pull/25) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 weeks ago)
 - [Update issue templates](https://github.com/noble-varghese/neon_style/pull/24) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 weeks ago)
-- [fix: fixing the version of the crate](https://github.com/noble-varghese/neon_style/pull/23) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (3 weeks ago)
 
 
 #### ⭐ Recent Stars
