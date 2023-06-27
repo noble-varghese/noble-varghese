@@ -27,7 +27,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 🔨 My recent Pull Requests
 
-- [Noble varghese/pylintc0103invalid name](https://github.com/jerryjliu/llama_index/pull/6603) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (today)
+- [fix: Fixing the pylint error on the loggers.](https://github.com/jerryjliu/llama_index/pull/6603) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (today)
 - [fix: Fixing the pylint error on the loggers.](https://github.com/jerryjliu/llama_index/pull/6549) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (5 days ago)
 - [build: Update issue templates](https://github.com/noble-varghese/neon_style/pull/27) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (1 month ago)
 - [docs: Update README.md](https://github.com/noble-varghese/neon_style/pull/26) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (1 month ago)
