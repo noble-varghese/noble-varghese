@@ -36,11 +36,11 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### ⭐ Recent Stars
 
+- [Portkey-AI/Winky](https://github.com/Portkey-AI/Winky) - logger wrapper (today)
+- [Portkey-AI/luna](https://github.com/Portkey-AI/luna) -  (today)
+- [Portkey-AI/albus](https://github.com/Portkey-AI/albus) -  (today)
 - [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) -  (5 days ago)
 - [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications (1 week ago)
-- [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience (1 month ago)
-- [namespacelabs/breakpoint](https://github.com/namespacelabs/breakpoint) - Add breakpoints to CI: pause, access the workflow with SSH, debug and resume. (1 month ago)
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (1 month ago)
 
 #### 💬 Feedback
 
