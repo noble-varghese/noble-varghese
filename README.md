@@ -36,11 +36,11 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### ⭐ Recent Stars
 
+- [Portkey-AI/docs](https://github.com/Portkey-AI/docs) -  (today)
 - [Portkey-AI/Winky](https://github.com/Portkey-AI/Winky) - logger wrapper (1 day ago)
 - [Portkey-AI/luna](https://github.com/Portkey-AI/luna) -  (1 day ago)
 - [Portkey-AI/albus](https://github.com/Portkey-AI/albus) -  (1 day ago)
 - [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) -  (6 days ago)
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications (1 week ago)
 
 #### 💬 Feedback
 
