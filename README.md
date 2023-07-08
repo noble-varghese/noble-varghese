@@ -36,7 +36,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### ⭐ Recent Stars
 
-- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.  (today)
+- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.  (1 day ago)
 - [Portkey-AI/docs](https://github.com/Portkey-AI/docs) -  (1 week ago)
 - [Portkey-AI/Winky](https://github.com/Portkey-AI/Winky) - logger wrapper (1 week ago)
 - [Portkey-AI/luna](https://github.com/Portkey-AI/luna) -  (1 week ago)
