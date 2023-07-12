@@ -10,7 +10,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 - [noble-varghese/rubeus_docs](https://github.com/noble-varghese/rubeus_docs) -  (2 weeks ago)
 - [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience (1 month ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (1 month ago)
-- [bahdotsh/zp](https://github.com/bahdotsh/zp) - Tool to copy things! (2 months ago)
+- [bahdotsh/zp](https://github.com/bahdotsh/zp) - Tool to copy things! (3 months ago)
 - [noble-varghese/grep-cli](https://github.com/noble-varghese/grep-cli) - A cli tool that implements the grep functionality. (3 months ago)
 
 #### 🌱 My latest projects
@@ -23,7 +23,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 🔭 Latest releases I've contributed to
 
-- [bahdotsh/zp](https://github.com/bahdotsh/zp) ([v1.0.0](https://github.com/bahdotsh/zp/releases/tag/v1.0.0), 2 months ago) - Tool to copy things!
+- [bahdotsh/zp](https://github.com/bahdotsh/zp) ([v1.0.0](https://github.com/bahdotsh/zp/releases/tag/v1.0.0), 3 months ago) - Tool to copy things!
 
 #### 🔨 My recent Pull Requests
 
@@ -36,11 +36,11 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### ⭐ Recent Stars
 
-- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.  (4 days ago)
+- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.  (5 days ago)
 - [Portkey-AI/docs](https://github.com/Portkey-AI/docs) -  (1 week ago)
-- [Portkey-AI/Winky](https://github.com/Portkey-AI/Winky) - logger wrapper (1 week ago)
-- [Portkey-AI/luna](https://github.com/Portkey-AI/luna) -  (1 week ago)
-- [Portkey-AI/albus](https://github.com/Portkey-AI/albus) -  (1 week ago)
+- [Portkey-AI/Winky](https://github.com/Portkey-AI/Winky) - logger wrapper (2 weeks ago)
+- [Portkey-AI/luna](https://github.com/Portkey-AI/luna) -  (2 weeks ago)
+- [Portkey-AI/albus](https://github.com/Portkey-AI/albus) -  (2 weeks ago)
 
 #### 💬 Feedback
 
