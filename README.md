@@ -29,7 +29,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 - [feat: Convert README Documents to GitHub Pages Site](https://github.com/Portkey-AI/docs/pull/7) on [Portkey-AI/docs](https://github.com/Portkey-AI/docs) (3 weeks ago)
 - [fix: Fixing the pylint error on the loggers.](https://github.com/jerryjliu/llama_index/pull/6603) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (3 weeks ago)
-- [fix: Fixing the pylint error on the loggers.](https://github.com/jerryjliu/llama_index/pull/6549) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (4 weeks ago)
+- [fix: Fixing the pylint error on the loggers.](https://github.com/jerryjliu/llama_index/pull/6549) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (1 month ago)
 - [build: Update issue templates](https://github.com/noble-varghese/neon_style/pull/27) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (1 month ago)
 - [docs: Update README.md](https://github.com/noble-varghese/neon_style/pull/26) on [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) (1 month ago)
 
