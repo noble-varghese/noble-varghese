@@ -11,7 +11,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 - [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience (2 months ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (2 months ago)
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) - Tool to copy things! (3 months ago)
-- [noble-varghese/grep-cli](https://github.com/noble-varghese/grep-cli) - A cli tool that implements the grep functionality. (3 months ago)
+- [noble-varghese/grep-cli](https://github.com/noble-varghese/grep-cli) - A cli tool that implements the grep functionality. (4 months ago)
 
 #### 🌱 My latest projects
 
