@@ -7,11 +7,11 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 👷 Check out what I'm currently working on
 
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications (today)
 - [noble-varghese/rubeus_docs](https://github.com/noble-varghese/rubeus_docs) -  (2 months ago)
 - [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience (2 months ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (2 months ago)
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) - Tool to copy things! (4 months ago)
-- [noble-varghese/grep-cli](https://github.com/noble-varghese/grep-cli) - A cli tool that implements the grep functionality. (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -23,6 +23,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 🔭 Latest releases I've contributed to
 
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) ([v0.8.8](https://github.com/jerryjliu/llama_index/releases/tag/v0.8.8), today) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) ([v1.0.0](https://github.com/bahdotsh/zp/releases/tag/v1.0.0), 4 months ago) - Tool to copy things!
 
 #### 🔨 My recent Pull Requests
