@@ -7,7 +7,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 👷 Check out what I'm currently working on
 
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications (1 day ago)
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications (2 days ago)
 - [noble-varghese/rubeus_docs](https://github.com/noble-varghese/rubeus_docs) -  (2 months ago)
 - [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience (2 months ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (2 months ago)
@@ -23,12 +23,12 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 🔭 Latest releases I've contributed to
 
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) ([v0.8.8](https://github.com/jerryjliu/llama_index/releases/tag/v0.8.8), 1 day ago) - LlamaIndex (GPT Index) is a data framework for your LLM applications
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) ([v0.8.9](https://github.com/jerryjliu/llama_index/releases/tag/v0.8.9), 1 day ago) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) ([v1.0.0](https://github.com/bahdotsh/zp/releases/tag/v1.0.0), 4 months ago) - Tool to copy things!
 
 #### 🔨 My recent Pull Requests
 
-- [add support for claude-2.0](https://github.com/jerryjliu/llama_index/pull/7373) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (1 day ago)
+- [add support for claude-2.0](https://github.com/jerryjliu/llama_index/pull/7373) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (2 days ago)
 - [feat: Convert README Documents to GitHub Pages Site](https://github.com/Portkey-AI/docs/pull/7) on [Portkey-AI/docs](https://github.com/Portkey-AI/docs) (1 month ago)
 - [fix: Fixing the pylint error on the loggers.](https://github.com/jerryjliu/llama_index/pull/6603) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (1 month ago)
 - [fix: Fixing the pylint error on the loggers.](https://github.com/jerryjliu/llama_index/pull/6549) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (2 months ago)
