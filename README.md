@@ -23,12 +23,12 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 🔭 Latest releases I've contributed to
 
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) ([v0.8.15](https://github.com/jerryjliu/llama_index/releases/tag/v0.8.15), today) - LlamaIndex (GPT Index) is a data framework for your LLM applications
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) ([v0.8.15](https://github.com/jerryjliu/llama_index/releases/tag/v0.8.15), 1 day ago) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) ([v1.0.0](https://github.com/bahdotsh/zp/releases/tag/v1.0.0), 4 months ago) - Tool to copy things!
 
 #### 🔨 My recent Pull Requests
 
-- [Noble varghese/portkey integration](https://github.com/noble-varghese/llama_index/pull/1) on [noble-varghese/llama_index](https://github.com/noble-varghese/llama_index) (5 days ago)
+- [Noble varghese/portkey integration](https://github.com/noble-varghese/llama_index/pull/1) on [noble-varghese/llama_index](https://github.com/noble-varghese/llama_index) (6 days ago)
 - [add support for claude-2.0](https://github.com/jerryjliu/llama_index/pull/7373) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (1 week ago)
 - [feat: Convert README Documents to GitHub Pages Site](https://github.com/Portkey-AI/docs/pull/7) on [Portkey-AI/docs](https://github.com/Portkey-AI/docs) (2 months ago)
 - [fix: Fixing the pylint error on the loggers.](https://github.com/jerryjliu/llama_index/pull/6603) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (2 months ago)
@@ -37,7 +37,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### ⭐ Recent Stars
 
-- [Portkey-AI/rubeus-python-sdk](https://github.com/Portkey-AI/rubeus-python-sdk) - The python sdk for Rubeus. (1 day ago)
+- [Portkey-AI/rubeus-python-sdk](https://github.com/Portkey-AI/rubeus-python-sdk) - The python sdk for Rubeus. (2 days ago)
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.  (1 month ago)
 - [Portkey-AI/docs](https://github.com/Portkey-AI/docs) -  (2 months ago)
 - [Portkey-AI/Winky](https://github.com/Portkey-AI/Winky) - logger wrapper (2 months ago)
