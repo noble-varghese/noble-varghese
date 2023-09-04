@@ -7,7 +7,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 👷 Check out what I'm currently working on
 
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications (1 week ago)
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications (today)
 - [noble-varghese/rubeus_docs](https://github.com/noble-varghese/rubeus_docs) -  (2 months ago)
 - [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience (3 months ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (3 months ago)
