@@ -28,11 +28,11 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 🔨 My recent Pull Requests
 
+- [fix: minor change on the documentation](https://github.com/jerryjliu/llama_index/pull/7533) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (today)
 - [feat: Portkey integration with Llama_index](https://github.com/jerryjliu/llama_index/pull/7508) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (3 days ago)
 - [feat: Portkey integration with Llama_index](https://github.com/noble-varghese/llama_index/pull/1) on [noble-varghese/llama_index](https://github.com/noble-varghese/llama_index) (1 week ago)
 - [add support for claude-2.0](https://github.com/jerryjliu/llama_index/pull/7373) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (1 week ago)
 - [feat: Convert README Documents to GitHub Pages Site](https://github.com/Portkey-AI/docs/pull/7) on [Portkey-AI/docs](https://github.com/Portkey-AI/docs) (2 months ago)
-- [fix: Fixing the pylint error on the loggers.](https://github.com/jerryjliu/llama_index/pull/6603) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (2 months ago)
 
 
 #### ⭐ Recent Stars
