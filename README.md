@@ -7,8 +7,8 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 👷 Check out what I'm currently working on
 
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications (1 day ago)
-- [noble-varghese/portkey-gpt](https://github.com/noble-varghese/portkey-gpt) - A chat interface for portkey (1 day ago)
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications (2 days ago)
+- [noble-varghese/portkey-gpt](https://github.com/noble-varghese/portkey-gpt) - A chat interface for portkey (2 days ago)
 - [noble-varghese/rubeus_docs](https://github.com/noble-varghese/rubeus_docs) -  (2 months ago)
 - [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience (3 months ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (3 months ago)
@@ -23,22 +23,22 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 
 #### 🔭 Latest releases I've contributed to
 
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) ([v0.8.20](https://github.com/jerryjliu/llama_index/releases/tag/v0.8.20), 1 day ago) - LlamaIndex (GPT Index) is a data framework for your LLM applications
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) ([v0.8.20](https://github.com/jerryjliu/llama_index/releases/tag/v0.8.20), 2 days ago) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) ([v1.0.0](https://github.com/bahdotsh/zp/releases/tag/v1.0.0), 4 months ago) - Tool to copy things!
 
 #### 🔨 My recent Pull Requests
 
-- [fix: minor change on the documentation](https://github.com/jerryjliu/llama_index/pull/7533) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (1 day ago)
-- [feat: Portkey integration with Llama_index](https://github.com/jerryjliu/llama_index/pull/7508) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (4 days ago)
+- [fix: minor change on the documentation](https://github.com/jerryjliu/llama_index/pull/7533) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (2 days ago)
+- [feat: Portkey integration with Llama_index](https://github.com/jerryjliu/llama_index/pull/7508) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (5 days ago)
 - [feat: Portkey integration with Llama_index](https://github.com/noble-varghese/llama_index/pull/1) on [noble-varghese/llama_index](https://github.com/noble-varghese/llama_index) (1 week ago)
-- [add support for claude-2.0](https://github.com/jerryjliu/llama_index/pull/7373) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (1 week ago)
+- [add support for claude-2.0](https://github.com/jerryjliu/llama_index/pull/7373) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (2 weeks ago)
 - [feat: Convert README Documents to GitHub Pages Site](https://github.com/Portkey-AI/docs/pull/7) on [Portkey-AI/docs](https://github.com/Portkey-AI/docs) (2 months ago)
 
 
 #### ⭐ Recent Stars
 
-- [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) -  (today)
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - The python sdk for Rubeus. (6 days ago)
+- [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) -  (1 day ago)
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - The python sdk for Rubeus. (1 week ago)
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.  (2 months ago)
 - [Portkey-AI/docs](https://github.com/Portkey-AI/docs) -  (2 months ago)
 - [Portkey-AI/Winky](https://github.com/Portkey-AI/Winky) - logger wrapper (2 months ago)
