@@ -38,7 +38,7 @@ PS: I'm working on a stealth project which will be released soon. Follow and sta
 #### ⭐ Recent Stars
 
 - [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) -  (1 day ago)
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - The python sdk for Rubeus. (1 week ago)
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - The python sdk for portkey. (1 week ago)
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.  (2 months ago)
 - [Portkey-AI/docs](https://github.com/Portkey-AI/docs) -  (2 months ago)
 - [Portkey-AI/Winky](https://github.com/Portkey-AI/Winky) - logger wrapper (2 months ago)
