@@ -3,7 +3,6 @@
 
 I'm Noble Varghese, a passionate Backend developer with a love for innovation and a knack for turning ideas into reality. My profile is a glimpse into my journey of exploration, creation, and continuous learning. Curious about what I have been working on ?
 
-PS: I'm working on a stealth project which will be released soon. Follow and stay tuned 😁
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
