@@ -37,7 +37,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 #### ⭐ Recent Stars
 
 - [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) - A Blazing Fast AI Gateway by Portkey.ai (3 days ago)
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - The python sdk for portkey. (1 week ago)
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - A Blazing Fast AI Gateway by Portkey.ai (1 week ago)
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.  (2 months ago)
 - [Portkey-AI/docs](https://github.com/Portkey-AI/docs) -  (2 months ago)
 - [Portkey-AI/Winky](https://github.com/Portkey-AI/Winky) - logger wrapper (2 months ago)
