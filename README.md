@@ -22,7 +22,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) ([v0.8.24.post1](https://github.com/jerryjliu/llama_index/releases/tag/v0.8.24.post1), today) - LlamaIndex (GPT Index) is a data framework for your LLM applications
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) ([v0.8.24.post1](https://github.com/jerryjliu/llama_index/releases/tag/v0.8.24.post1), 1 day ago) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) ([v1.0.0](https://github.com/bahdotsh/zp/releases/tag/v1.0.0), 5 months ago) - Tool to copy things!
 
 #### 🔨 My recent Pull Requests
@@ -36,7 +36,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) - A Blazing Fast AI Gateway by Portkey.ai (5 days ago)
+- [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) - A Blazing Fast AI Gateway by Portkey.ai (6 days ago)
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - A Blazing Fast AI Gateway by Portkey.ai (1 week ago)
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.  (2 months ago)
 - [Portkey-AI/docs](https://github.com/Portkey-AI/docs) -  (2 months ago)
