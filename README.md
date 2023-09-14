@@ -27,7 +27,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔨 My recent Pull Requests
 
-- [feat: portkey interface update](https://github.com/jerryjliu/llama_index/pull/7669) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (today)
+- [feat: enhancements and updates for portkey](https://github.com/jerryjliu/llama_index/pull/7669) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (today)
 - [fix: minor change on the documentation](https://github.com/jerryjliu/llama_index/pull/7533) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (1 week ago)
 - [feat: Portkey integration with Llama_index](https://github.com/jerryjliu/llama_index/pull/7508) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (1 week ago)
 - [feat: Portkey integration with Llama_index](https://github.com/noble-varghese/llama_index/pull/1) on [noble-varghese/llama_index](https://github.com/noble-varghese/llama_index) (2 weeks ago)
