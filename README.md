@@ -27,11 +27,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Portkey integration with Llama_index](https://github.com/noble-varghese/langchain/pull/1) on [noble-varghese/langchain](https://github.com/noble-varghese/langchain) (today)
 - [feat: enhancements and updates for portkey](https://github.com/jerryjliu/llama_index/pull/7669) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (1 day ago)
 - [fix: minor change on the documentation](https://github.com/jerryjliu/llama_index/pull/7533) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (1 week ago)
 - [feat: Portkey integration with Llama_index](https://github.com/jerryjliu/llama_index/pull/7508) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (2 weeks ago)
 - [feat: Portkey integration with Llama_index](https://github.com/noble-varghese/llama_index/pull/1) on [noble-varghese/llama_index](https://github.com/noble-varghese/llama_index) (2 weeks ago)
-- [add support for claude-2.0](https://github.com/jerryjliu/llama_index/pull/7373) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (3 weeks ago)
 
 
 #### ⭐ Recent Stars
