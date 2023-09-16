@@ -27,7 +27,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔨 My recent Pull Requests
 
-- [Noble varghese/portkey integration](https://github.com/langchain-ai/langchain/pull/10675) on [langchain-ai/langchain](https://github.com/langchain-ai/langchain) (today)
+- [feat: Portkey integration with LangChain](https://github.com/langchain-ai/langchain/pull/10675) on [langchain-ai/langchain](https://github.com/langchain-ai/langchain) (today)
 - [feat: Portkey integration with Langchain](https://github.com/noble-varghese/langchain/pull/1) on [noble-varghese/langchain](https://github.com/noble-varghese/langchain) (1 day ago)
 - [feat: enhancements and updates for portkey](https://github.com/jerryjliu/llama_index/pull/7669) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (2 days ago)
 - [fix: minor change on the documentation](https://github.com/jerryjliu/llama_index/pull/7533) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (1 week ago)
