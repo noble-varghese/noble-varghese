@@ -22,17 +22,17 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v0.1.50](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v0.1.50), today) - Build reliable, secure, and production-ready AI apps easily.
 - [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) ([v0.8.29.post1](https://github.com/jerryjliu/llama_index/releases/tag/v0.8.29.post1), 1 day ago) - LlamaIndex (GPT Index) is a data framework for your LLM applications
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v0.1.49](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v0.1.49), 3 days ago) - Build reliable, secure, and production-ready AI apps easily.
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) ([v1.0.0](https://github.com/bahdotsh/zp/releases/tag/v1.0.0), 5 months ago) - Tool to copy things!
 
 #### 🔨 My recent Pull Requests
 
+- [feat: version upgrade to 0.1.50](https://github.com/Portkey-AI/portkey-python-sdk/pull/21) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (today)
+- [feat: accepting variables in the generations API](https://github.com/Portkey-AI/portkey-python-sdk/pull/20) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (today)
 - [feat: introducing a &#34;Generate&#34; API for prompt-based content generation with saved prompts](https://github.com/Portkey-AI/portkey-python-sdk/pull/19) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (today)
 - [fix: Fixing the issue with the capturing of env variables](https://github.com/Portkey-AI/portkey-python-sdk/pull/13) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (3 days ago)
 - [feat: Portkey integration with LangChain](https://github.com/langchain-ai/langchain/pull/10675) on [langchain-ai/langchain](https://github.com/langchain-ai/langchain) (3 days ago)
-- [feat: Portkey integration with Langchain](https://github.com/noble-varghese/langchain/pull/1) on [noble-varghese/langchain](https://github.com/noble-varghese/langchain) (4 days ago)
-- [feat: enhancements and updates for portkey](https://github.com/jerryjliu/llama_index/pull/7669) on [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) (5 days ago)
 
 
 #### ⭐ Recent Stars
