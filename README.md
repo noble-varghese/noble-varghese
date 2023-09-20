@@ -6,7 +6,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (1 day ago)
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (today)
 - [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications (5 days ago)
 - [noble-varghese/portkey-gpt](https://github.com/noble-varghese/portkey-gpt) - A chat interface for portkey (2 weeks ago)
 - [noble-varghese/rubeus_docs](https://github.com/noble-varghese/rubeus_docs) -  (2 months ago)
@@ -22,17 +22,17 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v0.1.50](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v0.1.50), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v0.1.51](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v0.1.51), today) - Build reliable, secure, and production-ready AI apps easily.
 - [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) ([v0.8.29.post1](https://github.com/jerryjliu/llama_index/releases/tag/v0.8.29.post1), 2 days ago) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) ([v1.0.0](https://github.com/bahdotsh/zp/releases/tag/v1.0.0), 5 months ago) - Tool to copy things!
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Issue with the str comparison on the api path](https://github.com/Portkey-AI/portkey-python-sdk/pull/22) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (today)
 - [feat: version upgrade to 0.1.50](https://github.com/Portkey-AI/portkey-python-sdk/pull/21) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 day ago)
 - [feat: accepting variables in the generations API](https://github.com/Portkey-AI/portkey-python-sdk/pull/20) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 day ago)
 - [feat: introducing a &#34;Generate&#34; API for prompt-based content generation with saved prompts](https://github.com/Portkey-AI/portkey-python-sdk/pull/19) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 day ago)
 - [fix: Fixing the issue with the capturing of env variables](https://github.com/Portkey-AI/portkey-python-sdk/pull/13) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (4 days ago)
-- [feat: Portkey integration with LangChain](https://github.com/langchain-ai/langchain/pull/10675) on [langchain-ai/langchain](https://github.com/langchain-ai/langchain) (4 days ago)
 
 
 #### ⭐ Recent Stars
