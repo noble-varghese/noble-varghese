@@ -22,8 +22,8 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) ([v0.8.30](https://github.com/jerryjliu/llama_index/releases/tag/v0.8.30), today) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v0.1.52](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v0.1.52), today) - Build reliable, secure, and production-ready AI apps easily.
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) ([v0.8.29.post1](https://github.com/jerryjliu/llama_index/releases/tag/v0.8.29.post1), 3 days ago) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) ([v1.0.0](https://github.com/bahdotsh/zp/releases/tag/v1.0.0), 5 months ago) - Tool to copy things!
 
 #### 🔨 My recent Pull Requests
