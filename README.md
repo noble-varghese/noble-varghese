@@ -6,11 +6,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
+- [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (today)
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (6 days ago)
 - [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications (1 week ago)
 - [noble-varghese/portkey-gpt](https://github.com/noble-varghese/portkey-gpt) - A chat interface for portkey (3 weeks ago)
 - [noble-varghese/rubeus_docs](https://github.com/noble-varghese/rubeus_docs) -  (3 months ago)
-- [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (4 months ago)
 
 #### 🌱 My latest projects
 
