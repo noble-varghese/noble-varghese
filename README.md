@@ -28,11 +28,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Portkey integration with LLamaIndexTs](https://github.com/noble-varghese/LlamaIndexTS/pull/1) on [noble-varghese/LlamaIndexTS](https://github.com/noble-varghese/LlamaIndexTS) (today)
+- [feat: Portkey integration with LLamaIndexTS](https://github.com/run-llama/LlamaIndexTS/pull/133) on [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) (today)
 - [feat: Version upgrade - 0.1.52](https://github.com/Portkey-AI/portkey-python-sdk/pull/26) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 week ago)
 - [feat: anyscale integration &amp; openschema for all integrations](https://github.com/Portkey-AI/portkey-python-sdk/pull/25) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 week ago)
 - [feat: Adding Integration Testing Suite for LLM Integrations](https://github.com/Portkey-AI/portkey-python-sdk/pull/23) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 week ago)
-- [fix: Issue with the str comparison on the api path](https://github.com/Portkey-AI/portkey-python-sdk/pull/22) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 week ago)
-- [feat: version upgrade to 0.1.50](https://github.com/Portkey-AI/portkey-python-sdk/pull/21) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 week ago)
 
 
 #### ⭐ Recent Stars
