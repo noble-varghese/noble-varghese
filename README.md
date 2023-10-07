@@ -22,14 +22,14 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.8.40](https://github.com/run-llama/llama_index/releases/tag/v0.8.40), 1 day ago) - LlamaIndex (GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.8.40](https://github.com/run-llama/llama_index/releases/tag/v0.8.40), 2 days ago) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v0.1.52](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v0.1.52), 2 weeks ago) - Build reliable, secure, and production-ready AI apps easily.
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) ([v1.0.0](https://github.com/bahdotsh/zp/releases/tag/v1.0.0), 5 months ago) - Tool to copy things!
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Adding support for cacheKey](https://github.com/Portkey-AI/Rubeus/pull/20) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (today)
-- [feat: Adding Portkey](https://github.com/langchain-ai/langchainjs/pull/2763) on [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) (5 days ago)
+- [feat: Adding support for cacheKey](https://github.com/Portkey-AI/Rubeus/pull/20) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (1 day ago)
+- [feat: Adding Portkey](https://github.com/langchain-ai/langchainjs/pull/2763) on [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) (6 days ago)
 - [feat: Portkey integration with LLamaIndexTs](https://github.com/noble-varghese/LlamaIndexTS/pull/1) on [noble-varghese/LlamaIndexTS](https://github.com/noble-varghese/LlamaIndexTS) (1 week ago)
 - [feat: Portkey integration with LLamaIndexTS](https://github.com/run-llama/LlamaIndexTS/pull/133) on [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) (1 week ago)
 - [feat: Version upgrade - 0.1.52](https://github.com/Portkey-AI/portkey-python-sdk/pull/26) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (2 weeks ago)
@@ -37,8 +37,8 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models. (2 days ago)
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (3 days ago)
+- [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models. (3 days ago)
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (4 days ago)
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (1 week ago)
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it&#39;s best suited for building RAG, question answering, semantic search or conversational agent chatbots. (2 weeks ago)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ (2 weeks ago)
