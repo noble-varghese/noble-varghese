@@ -28,11 +28,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔨 My recent Pull Requests
 
+- [Noble varghese/29 enhancing the apis with config slug support](https://github.com/Portkey-AI/portkey-python-sdk/pull/36) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (today)
+- [feat: Added support for config-slug in the apis](https://github.com/Portkey-AI/portkey-python-sdk/pull/35) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (today)
 - [feat: Adding support for cacheKey](https://github.com/Portkey-AI/Rubeus/pull/20) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (4 days ago)
 - [feat: Adding Portkey](https://github.com/langchain-ai/langchainjs/pull/2763) on [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) (1 week ago)
 - [feat: Portkey integration with LLamaIndexTs](https://github.com/noble-varghese/LlamaIndexTS/pull/1) on [noble-varghese/LlamaIndexTS](https://github.com/noble-varghese/LlamaIndexTS) (1 week ago)
-- [feat: Portkey integration with LLamaIndexTS](https://github.com/run-llama/LlamaIndexTS/pull/133) on [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) (1 week ago)
-- [feat: Version upgrade - 0.1.52](https://github.com/Portkey-AI/portkey-python-sdk/pull/26) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (2 weeks ago)
 
 
 #### ⭐ Recent Stars
