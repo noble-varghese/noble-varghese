@@ -6,9 +6,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
-- [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) - A Blazing Fast AI Gateway by Portkey.ai (today)
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (today)
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) -  (today)
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (1 day ago)
+- [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) - A Blazing Fast AI Gateway by Portkey.ai (today)
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - LlamaIndex is a data framework for your LLM applications (1 week ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (2 weeks ago)
 
@@ -29,11 +29,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔨 My recent Pull Requests
 
+- [feat: adding the CI tests for linting](https://github.com/Portkey-AI/portkey-python-sdk/pull/41) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (today)
 - [fix: adding cacheKey in the proxy calls](https://github.com/Portkey-AI/Rubeus/pull/26) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (today)
 - [feat: Version upgrade - 0.1.53](https://github.com/Portkey-AI/portkey-python-sdk/pull/36) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 day ago)
 - [feat: Added support for config-slug in the apis](https://github.com/Portkey-AI/portkey-python-sdk/pull/35) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 day ago)
 - [feat: Adding support for cacheKey](https://github.com/Portkey-AI/Rubeus/pull/20) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (5 days ago)
-- [feat: Adding Portkey](https://github.com/langchain-ai/langchainjs/pull/2763) on [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) (1 week ago)
 
 
 #### ⭐ Recent Stars
