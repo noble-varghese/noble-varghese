@@ -29,11 +29,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔨 My recent Pull Requests
 
+- [fix: adding cacheKey in the proxy calls](https://github.com/Portkey-AI/Rubeus/pull/26) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (today)
 - [feat: Version upgrade - 0.1.53](https://github.com/Portkey-AI/portkey-python-sdk/pull/36) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 day ago)
 - [feat: Added support for config-slug in the apis](https://github.com/Portkey-AI/portkey-python-sdk/pull/35) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 day ago)
 - [feat: Adding support for cacheKey](https://github.com/Portkey-AI/Rubeus/pull/20) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (5 days ago)
 - [feat: Adding Portkey](https://github.com/langchain-ai/langchainjs/pull/2763) on [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) (1 week ago)
-- [feat: Portkey integration with LLamaIndexTs](https://github.com/noble-varghese/LlamaIndexTS/pull/1) on [noble-varghese/LlamaIndexTS](https://github.com/noble-varghese/LlamaIndexTS) (1 week ago)
 
 
 #### ⭐ Recent Stars
