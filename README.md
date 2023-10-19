@@ -22,7 +22,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.168](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.168), 1 day ago) - 
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.169](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.169), today) - 
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v0.1.53](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v0.1.53), 1 week ago) - Build reliable, secure, and production-ready AI apps easily.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.8.42](https://github.com/run-llama/llama_index/releases/tag/v0.8.42), 1 week ago) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) ([v1.0.0](https://github.com/bahdotsh/zp/releases/tag/v1.0.0), 6 months ago) - Tool to copy things!
