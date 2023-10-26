@@ -29,11 +29,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Fixing the image refrerences in the readme file](https://github.com/Portkey-AI/portkey-python-sdk/pull/54) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (today)
 - [feat: palm integration](https://github.com/Portkey-AI/Rubeus/pull/30) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (1 day ago)
 - [fix: fixing the docs for local installation](https://github.com/Portkey-AI/portkey-python-sdk/pull/50) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 week ago)
 - [feat: adding the CI tests for linting](https://github.com/Portkey-AI/portkey-python-sdk/pull/41) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (2 weeks ago)
 - [fix: adding cacheKey in the proxy calls](https://github.com/Portkey-AI/Rubeus/pull/26) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (2 weeks ago)
-- [feat: Introducing Config Slug Support in APIs](https://github.com/Portkey-AI/portkey-node-sdk/pull/2) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (2 weeks ago)
 
 
 #### ⭐ Recent Stars
