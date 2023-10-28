@@ -6,8 +6,8 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
-- [Portkey-AI/portkey-cookbook](https://github.com/Portkey-AI/portkey-cookbook) - Examples and guides for using the Portkey APIs (today)
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (today)
+- [Portkey-AI/portkey-cookbook](https://github.com/Portkey-AI/portkey-cookbook) - Examples and guides for using the Portkey APIs (1 day ago)
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (1 day ago)
 - [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) - A Blazing Fast AI Gateway by Portkey.ai (2 weeks ago)
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) -  (2 weeks ago)
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (2 weeks ago)
@@ -22,24 +22,24 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.174](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.174), 1 day ago) - 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.8.53.post3](https://github.com/run-llama/llama_index/releases/tag/v0.8.53.post3), 1 day ago) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.174](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.174), 2 days ago) - 
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.8.53.post3](https://github.com/run-llama/llama_index/releases/tag/v0.8.53.post3), 2 days ago) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v0.1.53](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v0.1.53), 2 weeks ago) - Build reliable, secure, and production-ready AI apps easily.
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) ([v1.0.0](https://github.com/bahdotsh/zp/releases/tag/v1.0.0), 6 months ago) - Tool to copy things!
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Minor updates on the docs](https://github.com/Portkey-AI/portkey-python-sdk/pull/56) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (today)
-- [fix: Fixing the image refrerences in the readme file](https://github.com/Portkey-AI/portkey-python-sdk/pull/54) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 day ago)
-- [feat: palm integration](https://github.com/Portkey-AI/Rubeus/pull/30) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (2 days ago)
+- [fix: Minor updates on the docs](https://github.com/Portkey-AI/portkey-python-sdk/pull/56) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 day ago)
+- [fix: Fixing the image refrerences in the readme file](https://github.com/Portkey-AI/portkey-python-sdk/pull/54) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (2 days ago)
+- [feat: palm integration](https://github.com/Portkey-AI/Rubeus/pull/30) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (3 days ago)
 - [fix: fixing the docs for local installation](https://github.com/Portkey-AI/portkey-python-sdk/pull/50) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 week ago)
 - [feat: adding the CI tests for linting](https://github.com/Portkey-AI/portkey-python-sdk/pull/41) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (2 weeks ago)
 
 
 #### ⭐ Recent Stars
 
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (today)
-- [Portkey-AI/portkey-cookbook](https://github.com/Portkey-AI/portkey-cookbook) - Examples and guides for using the Portkey APIs (today)
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (1 day ago)
+- [Portkey-AI/portkey-cookbook](https://github.com/Portkey-AI/portkey-cookbook) - Examples and guides for using the Portkey APIs (1 day ago)
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models. (3 weeks ago)
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (3 weeks ago)
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (1 month ago)
