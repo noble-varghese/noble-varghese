@@ -6,11 +6,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (today)
 - [Portkey-AI/portkey-cookbook](https://github.com/Portkey-AI/portkey-cookbook) - Examples and guides for using the Portkey APIs (4 days ago)
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (4 days ago)
 - [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) - A Blazing Fast AI Gateway by Portkey.ai (2 weeks ago)
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) -  (2 weeks ago)
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Add support for the saved prompt generations](https://github.com/Portkey-AI/portkey-node-sdk/pull/10) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (today)
 - [Noble varghese/type corrections](https://github.com/Portkey-AI/portkey-node-sdk/pull/9) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (today)
 - [fix: Minor updates on the docs](https://github.com/Portkey-AI/portkey-python-sdk/pull/56) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (4 days ago)
 - [fix: Fixing the image refrerences in the readme file](https://github.com/Portkey-AI/portkey-python-sdk/pull/54) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (5 days ago)
 - [feat: palm integration](https://github.com/Portkey-AI/Rubeus/pull/30) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (6 days ago)
-- [fix: fixing the docs for local installation](https://github.com/Portkey-AI/portkey-python-sdk/pull/50) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (2 weeks ago)
 
 
 #### ⭐ Recent Stars
