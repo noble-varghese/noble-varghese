@@ -7,9 +7,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 #### 👷 Check out what I'm currently working on
 
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (6 days ago)
-- [Portkey-AI/portkey-cookbook](https://github.com/Portkey-AI/portkey-cookbook) - Examples and guides for using the Portkey APIs (1 week ago)
+- [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) - A Blazing Fast AI Gateway by Portkey.ai (1 week ago)
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (1 week ago)
-- [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) - A Blazing Fast AI Gateway by Portkey.ai (3 weeks ago)
+- [Portkey-AI/portkey-cookbook](https://github.com/Portkey-AI/portkey-cookbook) - Examples and guides for using the Portkey APIs (1 week ago)
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) -  (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -22,8 +22,8 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.181](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.181), today) - 
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.8.61](https://github.com/run-llama/llama_index/releases/tag/v0.8.61), 1 day ago) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.180](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.180), 3 days ago) - 
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v0.1.53](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v0.1.53), 3 weeks ago) - Build reliable, secure, and production-ready AI apps easily.
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) ([v1.0.0](https://github.com/bahdotsh/zp/releases/tag/v1.0.0), 6 months ago) - A cli tool to copy things!
 
