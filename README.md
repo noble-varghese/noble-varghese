@@ -29,11 +29,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔨 My recent Pull Requests
 
+- [fix: adding the new openai params](https://github.com/Portkey-AI/Rubeus/pull/44) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (today)
 - [fix: adding mappings for max_tokens and stopsequences](https://github.com/Portkey-AI/Rubeus/pull/42) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (today)
 - [fix: adding the anthropic version header](https://github.com/Portkey-AI/Rubeus/pull/37) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (1 week ago)
 - [feat: Add support for the saved prompt generations](https://github.com/Portkey-AI/portkey-node-sdk/pull/10) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (1 week ago)
 - [Noble varghese/type corrections](https://github.com/Portkey-AI/portkey-node-sdk/pull/9) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (1 week ago)
-- [fix: Minor updates on the docs](https://github.com/Portkey-AI/portkey-python-sdk/pull/56) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 week ago)
 
 
 #### ⭐ Recent Stars
