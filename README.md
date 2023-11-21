@@ -6,8 +6,8 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
-- [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) - A Blazing Fast AI Gateway by Portkey.ai (1 week ago)
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (2 weeks ago)
+- [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) - A Blazing Fast AI Gateway by Portkey.ai (2 weeks ago)
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (3 weeks ago)
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (3 weeks ago)
 - [Portkey-AI/portkey-cookbook](https://github.com/Portkey-AI/portkey-cookbook) - Examples and guides for using the Portkey APIs (3 weeks ago)
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) -  (1 month ago)
@@ -22,18 +22,18 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.195](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.195), today) - 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.4](https://github.com/run-llama/llama_index/releases/tag/v0.9.4), today) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.195](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.195), 1 day ago) - 
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.4](https://github.com/run-llama/llama_index/releases/tag/v0.9.4), 1 day ago) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v0.1.53](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v0.1.53), 1 month ago) - Build reliable, secure, and production-ready AI apps easily.
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) ([v1.0.0](https://github.com/bahdotsh/zp/releases/tag/v1.0.0), 7 months ago) - A cli tool to copy things!
 
 #### 🔨 My recent Pull Requests
 
-- [fix: adding the new openai params](https://github.com/Portkey-AI/Rubeus/pull/44) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (1 week ago)
-- [fix: adding mappings for max_tokens and stopsequences](https://github.com/Portkey-AI/Rubeus/pull/42) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (1 week ago)
-- [fix: adding the anthropic version header](https://github.com/Portkey-AI/Rubeus/pull/37) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (2 weeks ago)
-- [feat: Add support for the saved prompt generations](https://github.com/Portkey-AI/portkey-node-sdk/pull/10) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (2 weeks ago)
-- [Noble varghese/type corrections](https://github.com/Portkey-AI/portkey-node-sdk/pull/9) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (2 weeks ago)
+- [fix: adding the new openai params](https://github.com/Portkey-AI/Rubeus/pull/44) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (2 weeks ago)
+- [fix: adding mappings for max_tokens and stopsequences](https://github.com/Portkey-AI/Rubeus/pull/42) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (2 weeks ago)
+- [fix: adding the anthropic version header](https://github.com/Portkey-AI/Rubeus/pull/37) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (3 weeks ago)
+- [feat: Add support for the saved prompt generations](https://github.com/Portkey-AI/portkey-node-sdk/pull/10) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 weeks ago)
+- [Noble varghese/type corrections](https://github.com/Portkey-AI/portkey-node-sdk/pull/9) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 weeks ago)
 
 
 #### ⭐ Recent Stars
