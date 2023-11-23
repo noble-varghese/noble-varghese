@@ -22,8 +22,8 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.6.post1](https://github.com/run-llama/llama_index/releases/tag/v0.9.6.post1), today) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.196](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.196), today) - 
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.6.post1](https://github.com/run-llama/llama_index/releases/tag/v0.9.6.post1), 1 day ago) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.196](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.196), 1 day ago) - 
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v0.1.53](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v0.1.53), 1 month ago) - Build reliable, secure, and production-ready AI apps easily.
 - [bahdotsh/zp](https://github.com/bahdotsh/zp) ([v1.0.0](https://github.com/bahdotsh/zp/releases/tag/v1.0.0), 7 months ago) - A cli tool to copy things!
 
@@ -42,7 +42,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 - [Portkey-AI/portkey-cookbook](https://github.com/Portkey-AI/portkey-cookbook) - Examples and guides for using the Portkey APIs (3 weeks ago)
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models. (1 month ago)
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (1 month ago)
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (1 month ago)
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (2 months ago)
 
 #### 💬 Feedback
 
