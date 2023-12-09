@@ -22,7 +22,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.0.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.0.1), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.1.0](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.1.0), today) - Build reliable, secure, and production-ready AI apps easily.
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.0.0](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.0.0), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.203](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.203), 2 days ago) - 
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.13](https://github.com/run-llama/llama_index/releases/tag/v0.9.13), 3 days ago) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
@@ -30,11 +30,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Minor updates on the version](https://github.com/Portkey-AI/portkey-node-sdk/pull/16) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (today)
+- [fix: fixing the lockfile](https://github.com/Portkey-AI/portkey-node-sdk/pull/15) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (today)
+- [fix: ci workflow fix](https://github.com/Portkey-AI/portkey-node-sdk/pull/14) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (today)
 - [feat: minor version upgrade](https://github.com/Portkey-AI/portkey-node-sdk/pull/13) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (today)
 - [feat: New updates on the SDK](https://github.com/Portkey-AI/portkey-node-sdk/pull/12) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (1 week ago)
-- [Feat: New updates on the SDK](https://github.com/Portkey-AI/portkey-python-sdk/pull/58) on [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) (1 week ago)
-- [fix: adding the new openai params](https://github.com/Portkey-AI/Rubeus/pull/44) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (1 month ago)
-- [fix: adding mappings for max_tokens and stopsequences](https://github.com/Portkey-AI/Rubeus/pull/42) on [Portkey-AI/Rubeus](https://github.com/Portkey-AI/Rubeus) (1 month ago)
 
 
 #### ⭐ Recent Stars
