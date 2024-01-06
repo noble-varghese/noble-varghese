@@ -8,7 +8,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (3 weeks ago)
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (4 weeks ago)
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API. (1 month ago)
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API. (2 months ago)
 - [Portkey-AI/portkey-cookbook](https://github.com/Portkey-AI/portkey-cookbook) - Examples and guides for using the Portkey APIs (2 months ago)
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) -  (2 months ago)
 
@@ -22,19 +22,19 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.25.post1](https://github.com/run-llama/llama_index/releases/tag/v0.9.25.post1), 2 days ago) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.0.0](https://github.com/Portkey-AI/gateway/releases/tag/v1.0.0), 2 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.214](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.214), 2 days ago) - 
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.1.0](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.1.0), 3 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.25.post1](https://github.com/run-llama/llama_index/releases/tag/v0.9.25.post1), 3 days ago) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.0.0](https://github.com/Portkey-AI/gateway/releases/tag/v1.0.0), 3 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.0.214](https://github.com/langchain-ai/langchainjs/releases/tag/0.0.214), 3 days ago) - 
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.1.0](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.1.0), 4 days ago) - Build reliable, secure, and production-ready AI apps easily.
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.1.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.1.1), 3 weeks ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
 - [fix: adding the package files](https://github.com/Portkey-AI/portkey-node-sdk/pull/18) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 weeks ago)
 - [feat: removing the langchain and llama integrations](https://github.com/Portkey-AI/portkey-node-sdk/pull/17) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 weeks ago)
-- [fix: Minor updates on the version](https://github.com/Portkey-AI/portkey-node-sdk/pull/16) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 weeks ago)
-- [fix: fixing the lockfile](https://github.com/Portkey-AI/portkey-node-sdk/pull/15) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 weeks ago)
-- [fix: ci workflow fix](https://github.com/Portkey-AI/portkey-node-sdk/pull/14) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 weeks ago)
+- [fix: Minor updates on the version](https://github.com/Portkey-AI/portkey-node-sdk/pull/16) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (4 weeks ago)
+- [fix: fixing the lockfile](https://github.com/Portkey-AI/portkey-node-sdk/pull/15) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (4 weeks ago)
+- [fix: ci workflow fix](https://github.com/Portkey-AI/portkey-node-sdk/pull/14) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (4 weeks ago)
 
 
 #### ⭐ Recent Stars
