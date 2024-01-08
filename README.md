@@ -30,11 +30,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Adding the repo details in issue event](https://github.com/google/go-github/pull/3040) on [google/go-github](https://github.com/google/go-github) (today)
 - [fix: adding the package files](https://github.com/Portkey-AI/portkey-node-sdk/pull/18) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 weeks ago)
 - [feat: removing the langchain and llama integrations](https://github.com/Portkey-AI/portkey-node-sdk/pull/17) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 weeks ago)
 - [fix: Minor updates on the version](https://github.com/Portkey-AI/portkey-node-sdk/pull/16) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (1 month ago)
 - [fix: fixing the lockfile](https://github.com/Portkey-AI/portkey-node-sdk/pull/15) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (1 month ago)
-- [fix: ci workflow fix](https://github.com/Portkey-AI/portkey-node-sdk/pull/14) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (1 month ago)
 
 
 #### ⭐ Recent Stars
