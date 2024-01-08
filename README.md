@@ -39,11 +39,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (today)
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (2 months ago)
 - [Portkey-AI/portkey-cookbook](https://github.com/Portkey-AI/portkey-cookbook) - Examples and guides for using the Portkey APIs (2 months ago)
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models. (3 months ago)
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (3 months ago)
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (3 months ago)
 
 #### 💬 Feedback
 
