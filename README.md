@@ -22,9 +22,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.31](https://github.com/run-llama/llama_index/releases/tag/v0.9.31), today) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.3](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.3), today) - 
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.1.3](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.1.3), 3 days ago) - Build reliable, secure, and production-ready AI apps easily.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.30](https://github.com/run-llama/llama_index/releases/tag/v0.9.30), 3 days ago) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [google/go-github](https://github.com/google/go-github) ([v58.0.0](https://github.com/google/go-github/releases/tag/v58.0.0), 5 days ago) - Go library for accessing the GitHub v3 API
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.0.3](https://github.com/Portkey-AI/gateway/releases/tag/v1.0.3), 6 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
 
