@@ -22,10 +22,10 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.34](https://github.com/run-llama/llama_index/releases/tag/v0.9.34), 1 day ago) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.4](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.4), 2 days ago) - 
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.1.4](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.1.4), 3 days ago) - Build reliable, secure, and production-ready AI apps easily.
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.1.2](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.1.2), 4 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.34](https://github.com/run-llama/llama_index/releases/tag/v0.9.34), 2 days ago) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.4](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.4), 3 days ago) - 
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.1.4](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.1.4), 4 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.1.2](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.1.2), 5 days ago) - Build reliable, secure, and production-ready AI apps easily.
 - [google/go-github](https://github.com/google/go-github) ([v58.0.0](https://github.com/google/go-github/releases/tag/v58.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
