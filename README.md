@@ -22,10 +22,10 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.37](https://github.com/run-llama/llama_index/releases/tag/v0.9.37), today) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.7](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.7), today) - 
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.37.post1](https://github.com/run-llama/llama_index/releases/tag/v0.9.37.post1), today) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.1.3](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.1.3), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.1.5](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.1.5), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.6](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.6), 1 day ago) - 
 - [google/go-github](https://github.com/google/go-github) ([v58.0.0](https://github.com/google/go-github/releases/tag/v58.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
