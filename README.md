@@ -6,8 +6,8 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
-- [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (2 days ago)
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (2 weeks ago)
+- [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (3 days ago)
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (3 weeks ago)
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (1 month ago)
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (1 month ago)
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API. (2 months ago)
@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.0.4](https://github.com/Portkey-AI/gateway/releases/tag/v1.0.4), today) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.9](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.9), 2 days ago) - 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.39](https://github.com/run-llama/llama_index/releases/tag/v0.9.39), 3 days ago) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.1.3](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.1.3), 5 days ago) - Build reliable, secure, and production-ready AI apps easily.
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.1.5](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.1.5), 5 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.0.4](https://github.com/Portkey-AI/gateway/releases/tag/v1.0.4), 1 day ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.9](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.9), 3 days ago) - 
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.39](https://github.com/run-llama/llama_index/releases/tag/v0.9.39), 4 days ago) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.1.3](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.1.3), 6 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.1.5](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.1.5), 6 days ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
