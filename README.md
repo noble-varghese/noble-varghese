@@ -22,7 +22,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.42](https://github.com/run-llama/llama_index/releases/tag/v0.9.42), today) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.42.post1](https://github.com/run-llama/llama_index/releases/tag/v0.9.42.post1), today) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.0.5](https://github.com/Portkey-AI/gateway/releases/tag/v1.0.5), today) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.1.6](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.1.6), today) - Build reliable, secure, and production-ready AI apps easily.
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.1.4](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.1.4), today) - Build reliable, secure, and production-ready AI apps easily.
