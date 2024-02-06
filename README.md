@@ -39,11 +39,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications (today)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (5 days ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (4 weeks ago)
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (3 months ago)
 - [Portkey-AI/portkey-cookbook](https://github.com/Portkey-AI/portkey-cookbook) - Examples and guides for using the Portkey APIs (3 months ago)
-- [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models. (4 months ago)
 
 #### 💬 Feedback
 
