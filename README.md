@@ -22,26 +22,26 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.44](https://github.com/run-llama/llama_index/releases/tag/v0.9.44), 1 day ago) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.13](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.13), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.0.5](https://github.com/Portkey-AI/gateway/releases/tag/v1.0.5), 4 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.1.6](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.1.6), 4 days ago) - Build reliable, secure, and production-ready AI apps easily.
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.1.4](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.1.4), 4 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.9.44](https://github.com/run-llama/llama_index/releases/tag/v0.9.44), 2 days ago) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.13](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.13), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.0.5](https://github.com/Portkey-AI/gateway/releases/tag/v1.0.5), 5 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.1.6](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.1.6), 5 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.1.4](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.1.4), 5 days ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
-- [Add Repo and Action to IssueEvent](https://github.com/google/go-github/pull/3040) on [google/go-github](https://github.com/google/go-github) (4 weeks ago)
+- [Add Repo and Action to IssueEvent](https://github.com/google/go-github/pull/3040) on [google/go-github](https://github.com/google/go-github) (1 month ago)
 - [fix: adding the package files](https://github.com/Portkey-AI/portkey-node-sdk/pull/18) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (1 month ago)
 - [feat: removing the langchain and llama integrations](https://github.com/Portkey-AI/portkey-node-sdk/pull/17) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (1 month ago)
-- [fix: Minor updates on the version](https://github.com/Portkey-AI/portkey-node-sdk/pull/16) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (1 month ago)
-- [fix: fixing the lockfile](https://github.com/Portkey-AI/portkey-node-sdk/pull/15) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (1 month ago)
+- [fix: Minor updates on the version](https://github.com/Portkey-AI/portkey-node-sdk/pull/16) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (2 months ago)
+- [fix: fixing the lockfile](https://github.com/Portkey-AI/portkey-node-sdk/pull/15) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (2 months ago)
 
 
 #### ⭐ Recent Stars
 
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications (today)
-- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (5 days ago)
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (4 weeks ago)
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications (1 day ago)
+- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (6 days ago)
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (1 month ago)
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (3 months ago)
 - [Portkey-AI/portkey-cookbook](https://github.com/Portkey-AI/portkey-cookbook) - Examples and guides for using the Portkey APIs (3 months ago)
 
