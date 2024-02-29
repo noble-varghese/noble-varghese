@@ -39,11 +39,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models. (today)
 - [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - This is a repo with links to everything you&#39;d ever want to learn about data engineering (2 weeks ago)
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications (3 weeks ago)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (4 weeks ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (1 month ago)
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (4 months ago)
 
 #### 💬 Feedback
 
