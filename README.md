@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.0.8](https://github.com/Portkey-AI/gateway/releases/tag/v1.0.8), 2 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.15](https://github.com/run-llama/llama_index/releases/tag/v0.10.15), 3 days ago) - LlamaIndex is a data framework for your LLM applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.25](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.25), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [google/go-github](https://github.com/google/go-github) ([v60.0.0](https://github.com/google/go-github/releases/tag/v60.0.0), 4 days ago) - Go library for accessing the GitHub v3 API
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.1.7](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.1.7), 2 weeks ago) - Build reliable, secure, and production-ready AI apps easily.
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.0.8](https://github.com/Portkey-AI/gateway/releases/tag/v1.0.8), 3 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.15](https://github.com/run-llama/llama_index/releases/tag/v0.10.15), 4 days ago) - LlamaIndex is a data framework for your LLM applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.25](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.25), 4 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [google/go-github](https://github.com/google/go-github) ([v60.0.0](https://github.com/google/go-github/releases/tag/v60.0.0), 5 days ago) - Go library for accessing the GitHub v3 API
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.1.7](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.1.7), 3 weeks ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
@@ -39,10 +39,10 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (4 days ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models. (4 days ago)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (5 days ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models. (5 days ago)
 - [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - This is a repo with links to everything you&#39;d ever want to learn about data engineering (3 weeks ago)
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications (3 weeks ago)
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications (4 weeks ago)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (1 month ago)
 
 #### 💬 Feedback
