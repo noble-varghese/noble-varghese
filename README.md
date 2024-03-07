@@ -9,7 +9,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (1 month ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (1 month ago)
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (2 months ago)
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (2 months ago)
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (3 months ago)
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API. (4 months ago)
 
 #### 🌱 My latest projects
@@ -22,10 +22,10 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.16](https://github.com/run-llama/llama_index/releases/tag/v0.10.16), 1 day ago) - LlamaIndex is a data framework for your LLM applications
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.0.9](https://github.com/Portkey-AI/gateway/releases/tag/v1.0.9), 1 day ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.25](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.25), 5 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [google/go-github](https://github.com/google/go-github) ([v60.0.0](https://github.com/google/go-github/releases/tag/v60.0.0), 6 days ago) - Go library for accessing the GitHub v3 API
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.17](https://github.com/run-llama/llama_index/releases/tag/v0.10.17), today) - LlamaIndex is a data framework for your LLM applications
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.0.9](https://github.com/Portkey-AI/gateway/releases/tag/v1.0.9), 2 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.25](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.25), 6 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [google/go-github](https://github.com/google/go-github) ([v60.0.0](https://github.com/google/go-github/releases/tag/v60.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.1.7](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.1.7), 3 weeks ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
@@ -39,10 +39,10 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (6 days ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models. (6 days ago)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (1 week ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models. (1 week ago)
 - [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - This is a repo with links to everything you&#39;d ever want to learn about data engineering (3 weeks ago)
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications (4 weeks ago)
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications (1 month ago)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (1 month ago)
 
 #### 💬 Feedback
