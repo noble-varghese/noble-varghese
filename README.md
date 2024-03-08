@@ -22,19 +22,19 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.17](https://github.com/run-llama/llama_index/releases/tag/v0.10.17), today) - LlamaIndex is a data framework for your LLM applications
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.0.9](https://github.com/Portkey-AI/gateway/releases/tag/v1.0.9), 2 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.25](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.25), 6 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.17](https://github.com/run-llama/llama_index/releases/tag/v0.10.17), 1 day ago) - LlamaIndex is a data framework for your LLM applications
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.0.9](https://github.com/Portkey-AI/gateway/releases/tag/v1.0.9), 3 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.25](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.25), 1 week ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [google/go-github](https://github.com/google/go-github) ([v60.0.0](https://github.com/google/go-github/releases/tag/v60.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.1.7](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.1.7), 3 weeks ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
-- [Add Repo and Action to IssueEvent](https://github.com/google/go-github/pull/3040) on [google/go-github](https://github.com/google/go-github) (1 month ago)
+- [Add Repo and Action to IssueEvent](https://github.com/google/go-github/pull/3040) on [google/go-github](https://github.com/google/go-github) (2 months ago)
 - [fix: adding the package files](https://github.com/Portkey-AI/portkey-node-sdk/pull/18) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (2 months ago)
 - [feat: removing the langchain and llama integrations](https://github.com/Portkey-AI/portkey-node-sdk/pull/17) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (2 months ago)
-- [fix: Minor updates on the version](https://github.com/Portkey-AI/portkey-node-sdk/pull/16) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (2 months ago)
-- [fix: fixing the lockfile](https://github.com/Portkey-AI/portkey-node-sdk/pull/15) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (2 months ago)
+- [fix: Minor updates on the version](https://github.com/Portkey-AI/portkey-node-sdk/pull/16) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 months ago)
+- [fix: fixing the lockfile](https://github.com/Portkey-AI/portkey-node-sdk/pull/15) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 months ago)
 
 
 #### ⭐ Recent Stars
