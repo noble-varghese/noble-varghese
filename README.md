@@ -22,10 +22,10 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.29](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.29), today) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.23](https://github.com/run-llama/llama_index/releases/tag/v0.10.23), 2 days ago) - LlamaIndex is a data framework for your LLM applications
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.2.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.2.1), 2 days ago) - Build reliable, secure, and production-ready AI apps easily.
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.2.2](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.2.2), 2 days ago) - Build reliable, secure, and production-ready AI apps easily.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.28](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.28), 1 week ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.0.10](https://github.com/Portkey-AI/gateway/releases/tag/v1.0.10), 2 weeks ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
 
 #### 🔨 My recent Pull Requests
