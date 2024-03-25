@@ -22,9 +22,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.23](https://github.com/run-llama/llama_index/releases/tag/v0.10.23), 1 day ago) - LlamaIndex is a data framework for your LLM applications
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.2.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.2.1), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.2.2](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.2.2), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.23](https://github.com/run-llama/llama_index/releases/tag/v0.10.23), 2 days ago) - LlamaIndex is a data framework for your LLM applications
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.2.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.2.1), 2 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.2.2](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.2.2), 2 days ago) - Build reliable, secure, and production-ready AI apps easily.
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.28](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.28), 1 week ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.0.10](https://github.com/Portkey-AI/gateway/releases/tag/v1.0.10), 2 weeks ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
 
@@ -39,10 +39,10 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (4 days ago)
-- [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (5 days ago)
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (5 days ago)
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos (1 week ago)
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (5 days ago)
+- [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (6 days ago)
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (6 days ago)
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos (2 weeks ago)
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit. (2 weeks ago)
 
 #### 💬 Feedback
