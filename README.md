@@ -30,11 +30,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔨 My recent Pull Requests
 
+- [test: Add test cases for langchain syn and async methods](https://github.com/langfuse/langfuse-python/pull/508) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (today)
 - [Add Repo and Action to IssueEvent](https://github.com/google/go-github/pull/3040) on [google/go-github](https://github.com/google/go-github) (2 months ago)
 - [fix: adding the package files](https://github.com/Portkey-AI/portkey-node-sdk/pull/18) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 months ago)
 - [feat: removing the langchain and llama integrations](https://github.com/Portkey-AI/portkey-node-sdk/pull/17) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 months ago)
 - [fix: Minor updates on the version](https://github.com/Portkey-AI/portkey-node-sdk/pull/16) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 months ago)
-- [fix: fixing the lockfile](https://github.com/Portkey-AI/portkey-node-sdk/pull/15) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 months ago)
 
 
 #### ⭐ Recent Stars
