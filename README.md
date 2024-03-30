@@ -6,19 +6,19 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
+- [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) -  (today)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (1 week ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (2 months ago)
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (3 months ago)
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (3 months ago)
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API. (4 months ago)
 
 #### 🌱 My latest projects
 
+- [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) - 
 - [noble-varghese/portkey-gpt](https://github.com/noble-varghese/portkey-gpt) - A chat interface for portkey
 - [noble-varghese/rubeus_docs](https://github.com/noble-varghese/rubeus_docs) - 
 - [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro
-- [noble-varghese/grep-cli](https://github.com/noble-varghese/grep-cli) - A cli tool that implements the grep functionality.
 
 #### 🔭 Latest releases I've contributed to
 
