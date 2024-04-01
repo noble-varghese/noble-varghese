@@ -6,7 +6,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
-- [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) -  (1 day ago)
+- [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) -  (2 days ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (2 weeks ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (2 months ago)
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (3 months ago)
@@ -22,17 +22,17 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.1.1](https://github.com/Portkey-AI/gateway/releases/tag/v1.1.1), 2 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.25](https://github.com/run-llama/llama_index/releases/tag/v0.10.25), 4 days ago) - LlamaIndex is a data framework for your LLM applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.30](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.30), 5 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.1.1](https://github.com/Portkey-AI/gateway/releases/tag/v1.1.1), 3 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.25](https://github.com/run-llama/llama_index/releases/tag/v0.10.25), 5 days ago) - LlamaIndex is a data framework for your LLM applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.30](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.30), 6 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.2.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.2.1), 1 week ago) - Build reliable, secure, and production-ready AI apps easily.
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.2.2](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.2.2), 1 week ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix: langchain async and sync batch calls](https://github.com/langfuse/langfuse-python/pull/518) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (today)
-- [Noble varghese/langchain streaming tests](https://github.com/noble-varghese/langfuse-python/pull/1) on [noble-varghese/langfuse-python](https://github.com/noble-varghese/langfuse-python) (today)
-- [test: Add test cases for langchain syn and async methods](https://github.com/langfuse/langfuse-python/pull/508) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (4 days ago)
+- [Fix: langchain async and sync batch calls](https://github.com/langfuse/langfuse-python/pull/518) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 day ago)
+- [Noble varghese/langchain streaming tests](https://github.com/noble-varghese/langfuse-python/pull/1) on [noble-varghese/langfuse-python](https://github.com/noble-varghese/langfuse-python) (1 day ago)
+- [test: Add test cases for langchain syn and async methods](https://github.com/langfuse/langfuse-python/pull/508) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (5 days ago)
 - [Add Repo and Action to IssueEvent](https://github.com/google/go-github/pull/3040) on [google/go-github](https://github.com/google/go-github) (2 months ago)
 - [fix: adding the package files](https://github.com/Portkey-AI/portkey-node-sdk/pull/18) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 months ago)
 
@@ -42,7 +42,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (1 week ago)
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (1 week ago)
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (1 week ago)
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos (2 weeks ago)
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos (3 weeks ago)
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit. (3 weeks ago)
 
 #### 💬 Feedback
