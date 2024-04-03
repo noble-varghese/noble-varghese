@@ -30,11 +30,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔨 My recent Pull Requests
 
+- [WIP: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (today)
 - [Fix: langchain async and sync batch calls](https://github.com/langfuse/langfuse-python/pull/518) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (3 days ago)
 - [Noble varghese/langchain streaming tests](https://github.com/noble-varghese/langfuse-python/pull/1) on [noble-varghese/langfuse-python](https://github.com/noble-varghese/langfuse-python) (3 days ago)
 - [test: Add test cases for langchain syn and async methods](https://github.com/langfuse/langfuse-python/pull/508) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 week ago)
 - [Add Repo and Action to IssueEvent](https://github.com/google/go-github/pull/3040) on [google/go-github](https://github.com/google/go-github) (2 months ago)
-- [fix: adding the package files](https://github.com/Portkey-AI/portkey-node-sdk/pull/18) on [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) (3 months ago)
 
 
 #### ⭐ Recent Stars
