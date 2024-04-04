@@ -6,7 +6,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
-- [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) -  (4 days ago)
+- [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) -  (5 days ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (2 weeks ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (2 months ago)
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (3 months ago)
@@ -22,24 +22,24 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/go-github](https://github.com/google/go-github) ([v61.0.0](https://github.com/google/go-github/releases/tag/v61.0.0), 2 days ago) - Go library for accessing the GitHub v3 API
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.1.2](https://github.com/Portkey-AI/gateway/releases/tag/v1.1.2), 2 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.26](https://github.com/run-llama/llama_index/releases/tag/v0.10.26), 2 days ago) - LlamaIndex is a data framework for your LLM applications
+- [google/go-github](https://github.com/google/go-github) ([v61.0.0](https://github.com/google/go-github/releases/tag/v61.0.0), 3 days ago) - Go library for accessing the GitHub v3 API
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.1.2](https://github.com/Portkey-AI/gateway/releases/tag/v1.1.2), 3 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.26](https://github.com/run-llama/llama_index/releases/tag/v0.10.26), 3 days ago) - LlamaIndex is a data framework for your LLM applications
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.30](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.30), 1 week ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.2.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.2.1), 1 week ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (today)
-- [WIP: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (today)
-- [Fix: langchain async and sync batch calls](https://github.com/langfuse/langfuse-python/pull/518) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (3 days ago)
-- [Noble varghese/langchain streaming tests](https://github.com/noble-varghese/langfuse-python/pull/1) on [noble-varghese/langfuse-python](https://github.com/noble-varghese/langfuse-python) (3 days ago)
+- [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 day ago)
+- [WIP: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (1 day ago)
+- [Fix: langchain async and sync batch calls](https://github.com/langfuse/langfuse-python/pull/518) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (4 days ago)
+- [Noble varghese/langchain streaming tests](https://github.com/noble-varghese/langfuse-python/pull/1) on [noble-varghese/langfuse-python](https://github.com/noble-varghese/langfuse-python) (4 days ago)
 - [test: Add test cases for langchain syn and async methods](https://github.com/langfuse/langfuse-python/pull/508) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 week ago)
 
 
 #### ⭐ Recent Stars
 
-- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (1 day ago)
+- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (2 days ago)
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (2 weeks ago)
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (2 weeks ago)
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (2 weeks ago)
