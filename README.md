@@ -6,11 +6,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (today)
 - [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) -  (5 days ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (2 weeks ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (2 months ago)
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (3 months ago)
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) - Build reliable, secure, and production-ready AI apps easily. (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.21.3](https://github.com/langfuse/langfuse-python/releases/tag/v2.21.3), today) - Langfuse Python SDK
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.31](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.31), today) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [google/go-github](https://github.com/google/go-github) ([v61.0.0](https://github.com/google/go-github/releases/tag/v61.0.0), 3 days ago) - Go library for accessing the GitHub v3 API
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.1.2](https://github.com/Portkey-AI/gateway/releases/tag/v1.1.2), 3 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.26](https://github.com/run-llama/llama_index/releases/tag/v0.10.26), 3 days ago) - LlamaIndex is a data framework for your LLM applications
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.2.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.2.1), 1 week ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
