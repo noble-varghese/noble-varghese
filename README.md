@@ -32,7 +32,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 - [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 day ago)
 - [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (2 days ago)
-- [WIP: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (2 days ago)
+- [feat: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (2 days ago)
 - [Fix: langchain async and sync batch calls](https://github.com/langfuse/langfuse-python/pull/518) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (5 days ago)
 - [Noble varghese/langchain streaming tests](https://github.com/noble-varghese/langfuse-python/pull/1) on [noble-varghese/langfuse-python](https://github.com/noble-varghese/langfuse-python) (5 days ago)
 
