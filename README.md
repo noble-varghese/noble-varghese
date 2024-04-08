@@ -6,7 +6,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (3 days ago)
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (today)
 - [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) -  (1 week ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (3 weeks ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (3 months ago)
