@@ -6,7 +6,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (today)
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (1 day ago)
 - [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) -  (1 week ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (3 weeks ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (3 months ago)
@@ -22,28 +22,28 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.22.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.22.0), today) - Langfuse Python SDK
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.2.3](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.2.3), 3 days ago) - Build reliable, secure, and production-ready AI apps easily.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.27](https://github.com/run-llama/llama_index/releases/tag/v0.10.27), 4 days ago) - LlamaIndex is a data framework for your LLM applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.31](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.31), 4 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.22.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.22.0), 1 day ago) - Langfuse Python SDK
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.2.3](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.2.3), 4 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.27](https://github.com/run-llama/llama_index/releases/tag/v0.10.27), 5 days ago) - LlamaIndex is a data framework for your LLM applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.31](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.31), 5 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [google/go-github](https://github.com/google/go-github) ([v61.0.0](https://github.com/google/go-github/releases/tag/v61.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
 
-- [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 day ago)
-- [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (4 days ago)
-- [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (5 days ago)
-- [feat: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (5 days ago)
+- [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (2 days ago)
+- [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (5 days ago)
+- [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (6 days ago)
+- [feat: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (6 days ago)
 - [Fix: langchain async and sync batch calls](https://github.com/langfuse/langfuse-python/pull/518) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 week ago)
 
 
 #### ⭐ Recent Stars
 
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (2 days ago)
-- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (6 days ago)
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (3 days ago)
+- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (1 week ago)
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (2 weeks ago)
-- [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (2 weeks ago)
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (2 weeks ago)
+- [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (3 weeks ago)
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (3 weeks ago)
 
 #### 💬 Feedback
 
