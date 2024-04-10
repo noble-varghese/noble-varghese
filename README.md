@@ -22,8 +22,8 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.23.2](https://github.com/langfuse/langfuse-python/releases/tag/v2.23.2), today) - Langfuse Python SDK
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.28](https://github.com/run-llama/llama_index/releases/tag/v0.10.28), 1 day ago) - LlamaIndex is a data framework for your LLM applications
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.23.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.23.1), 1 day ago) - Langfuse Python SDK
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.32](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.32), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.2.3](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.2.3), 5 days ago) - Build reliable, secure, and production-ready AI apps easily.
 - [google/go-github](https://github.com/google/go-github) ([v61.0.0](https://github.com/google/go-github/releases/tag/v61.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
