@@ -6,7 +6,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (6 days ago)
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - Langfuse Python SDK (1 week ago)
 - [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) -  (2 weeks ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (4 weeks ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (3 months ago)
@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.29](https://github.com/run-llama/llama_index/releases/tag/v0.10.29), today) - LlamaIndex is a data framework for your LLM applications
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.26.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.26.1), 1 day ago) - Langfuse Python SDK
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.2.4](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.2.4), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.33](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.33), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [google/go-github](https://github.com/google/go-github) ([v61.0.0](https://github.com/google/go-github/releases/tag/v61.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.29](https://github.com/run-llama/llama_index/releases/tag/v0.10.29), 1 day ago) - LlamaIndex is a data framework for your LLM applications
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.26.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.26.1), 2 days ago) - Langfuse Python SDK
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.2.4](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.2.4), 2 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.33](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.33), 4 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [google/go-github](https://github.com/google/go-github) ([v61.0.0](https://github.com/google/go-github/releases/tag/v61.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
 
