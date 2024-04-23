@@ -22,9 +22,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.27.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.27.1), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.34](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.34), 4 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.30](https://github.com/run-llama/llama_index/releases/tag/v0.10.30), 5 days ago) - LlamaIndex is a data framework for your LLM applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.35](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.35), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.27.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.27.1), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.30](https://github.com/run-llama/llama_index/releases/tag/v0.10.30), 6 days ago) - LlamaIndex is a data framework for your LLM applications
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.6.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.6.0), 1 week ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.2.4](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.2.4), 1 week ago) - Build reliable, secure, and production-ready AI apps easily.
 
@@ -40,7 +40,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 #### ⭐ Recent Stars
 
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (2 weeks ago)
-- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (2 weeks ago)
+- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (3 weeks ago)
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework (1 month ago)
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (1 month ago)
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (1 month ago)
