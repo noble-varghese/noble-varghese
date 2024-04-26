@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.15](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.15), today) - LlamaIndex is a data framework for your LLM applications
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.16](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.16), today) - LlamaIndex is a data framework for your LLM applications
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.27.2](https://github.com/langfuse/langfuse-python/releases/tag/v2.27.2), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.2.0](https://github.com/Portkey-AI/gateway/releases/tag/v1.2.0), today) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.32](https://github.com/run-llama/llama_index/releases/tag/v0.10.32), today) - LlamaIndex is a data framework for your LLM applications
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.36](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.36), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.8.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.8.0), 3 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 
 #### 🔨 My recent Pull Requests
 
