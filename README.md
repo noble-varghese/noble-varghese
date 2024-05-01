@@ -22,18 +22,18 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.27.3](https://github.com/langfuse/langfuse-python/releases/tag/v2.27.3), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.33](https://github.com/run-llama/llama_index/releases/tag/v0.10.33), 2 days ago) - LlamaIndex is a data framework for your LLM applications
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.16](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.16), 4 days ago) - LlamaIndex is a data framework for your LLM applications
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.2.0](https://github.com/Portkey-AI/gateway/releases/tag/v1.2.0), 4 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.36](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.36), 6 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.27.3](https://github.com/langfuse/langfuse-python/releases/tag/v2.27.3), 2 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.33](https://github.com/run-llama/llama_index/releases/tag/v0.10.33), 3 days ago) - LlamaIndex is a data framework for your LLM applications
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.16](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.16), 5 days ago) - LlamaIndex is a data framework for your LLM applications
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.2.0](https://github.com/Portkey-AI/gateway/releases/tag/v1.2.0), 5 days ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.1.36](https://github.com/langchain-ai/langchainjs/releases/tag/0.1.36), 1 week ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 
 #### 🔨 My recent Pull Requests
 
 - [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (3 weeks ago)
 - [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (3 weeks ago)
-- [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (3 weeks ago)
-- [feat: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (3 weeks ago)
+- [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (4 weeks ago)
+- [feat: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (4 weeks ago)
 - [Fix: langchain async and sync batch calls](https://github.com/langfuse/langfuse-python/pull/518) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 month ago)
 
 
