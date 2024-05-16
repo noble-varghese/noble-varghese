@@ -9,7 +9,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework (1 month ago)
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework (1 month ago)
 - [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) -  (1 month ago)
-- [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (1 month ago)
+- [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (2 months ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (4 months ago)
 
 #### 🌱 My latest projects
@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.3.1](https://github.com/Portkey-AI/gateway/releases/tag/v1.3.1), today) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.31.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.31.0), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.37](https://github.com/run-llama/llama_index/releases/tag/v0.10.37), 1 day ago) - LlamaIndex is a data framework for your LLM applications
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.27](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.27), 2 days ago) - LlamaIndex is a data framework for your LLM applications
-- [google/go-github](https://github.com/google/go-github) ([v62.0.0](https://github.com/google/go-github/releases/tag/v62.0.0), 4 days ago) - Go library for accessing the GitHub v3 API
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.3.1](https://github.com/Portkey-AI/gateway/releases/tag/v1.3.1), 1 day ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.31.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.31.0), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.37](https://github.com/run-llama/llama_index/releases/tag/v0.10.37), 2 days ago) - LlamaIndex is a data framework for your LLM applications
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.27](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.27), 3 days ago) - LlamaIndex is a data framework for your LLM applications
+- [google/go-github](https://github.com/google/go-github) ([v62.0.0](https://github.com/google/go-github/releases/tag/v62.0.0), 5 days ago) - Go library for accessing the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
 
@@ -39,7 +39,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work! (6 days ago)
+- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work! (1 week ago)
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (1 month ago)
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (1 month ago)
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework (1 month ago)
