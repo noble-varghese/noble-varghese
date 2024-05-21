@@ -22,9 +22,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.33.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.33.0), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.3.2](https://github.com/Portkey-AI/gateway/releases/tag/v1.3.2), 1 day ago) - A Blazing Fast AI Gateway. Route to 100&#43; LLMs with 1 fast &amp; friendly API.
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.0@next](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.0%40next), 4 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.32.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.32.0), 4 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.29](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.29), 4 days ago) - LlamaIndex is a data framework for your LLM applications
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.37](https://github.com/run-llama/llama_index/releases/tag/v0.10.37), 1 week ago) - LlamaIndex is a data framework for your LLM applications
 
