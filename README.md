@@ -6,19 +6,19 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
+- [noble-varghese/snake_and_ladder](https://github.com/noble-varghese/snake_and_ladder) -  (today)
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework (1 month ago)
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework (1 month ago)
 - [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) -  (1 month ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (2 months ago)
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (4 months ago)
 
 #### 🌱 My latest projects
 
+- [noble-varghese/snake_and_ladder](https://github.com/noble-varghese/snake_and_ladder) - 
 - [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) - 
 - [noble-varghese/portkey-gpt](https://github.com/noble-varghese/portkey-gpt) - A chat interface for portkey
 - [noble-varghese/rubeus_docs](https://github.com/noble-varghese/rubeus_docs) - 
 - [noble-varghese/neon_style](https://github.com/noble-varghese/neon_style) - Defining styles for creating an aesthetically pleasing command line experience
-- [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro
 
 #### 🔭 Latest releases I've contributed to
 
