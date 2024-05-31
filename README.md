@@ -22,7 +22,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.3.0](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.3.0), today) - Build reliable, secure, and production-ready AI apps easily.
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.3.1](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.3.1), today) - Build reliable, secure, and production-ready AI apps easily.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.41](https://github.com/run-llama/llama_index/releases/tag/v0.10.41), today) - LlamaIndex is a data framework for your LLM applications
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.4](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.4), today) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.33.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.33.1), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
