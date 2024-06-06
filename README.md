@@ -22,15 +22,15 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.34.2](https://github.com/langfuse/langfuse-python/releases/tag/v2.34.2), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.5](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.5), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.43](https://github.com/run-llama/llama_index/releases/tag/v0.10.43), 2 days ago) - LlamaIndex is a data framework for your LLM applications
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.32](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.32), 2 days ago) - LlamaIndex is a data framework for your LLM applications
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.3.2](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.3.2), 4 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.34.2](https://github.com/langfuse/langfuse-python/releases/tag/v2.34.2), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.5](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.5), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.43](https://github.com/run-llama/llama_index/releases/tag/v0.10.43), 3 days ago) - LlamaIndex is a data framework for your LLM applications
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.32](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.32), 3 days ago) - LlamaIndex is a data framework for your LLM applications
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.3.2](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.3.2), 5 days ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 month ago)
+- [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (2 months ago)
 - [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (2 months ago)
 - [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (2 months ago)
 - [feat: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (2 months ago)
@@ -41,7 +41,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 - [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥 (1 week ago)
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs (2 weeks ago)
-- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work! (3 weeks ago)
+- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work! (4 weeks ago)
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (2 months ago)
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (2 months ago)
 
