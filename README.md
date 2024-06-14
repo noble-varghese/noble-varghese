@@ -7,7 +7,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 #### 👷 Check out what I'm currently working on
 
 - [noble-varghese/snake_and_ladder](https://github.com/noble-varghese/snake_and_ladder) -  (2 weeks ago)
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework (1 month ago)
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework (2 months ago)
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework (2 months ago)
 - [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) -  (2 months ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (2 months ago)
@@ -22,9 +22,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.34](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.34), 2 days ago) - LlamaIndex is a data framework for your LLM applications
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.36.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.36.1), 2 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.44](https://github.com/run-llama/llama_index/releases/tag/v0.10.44), 3 days ago) - LlamaIndex is a data framework for your LLM applications
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.34](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.34), 3 days ago) - LlamaIndex is a data framework for your LLM applications
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.36.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.36.1), 3 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.44](https://github.com/run-llama/llama_index/releases/tag/v0.10.44), 4 days ago) - LlamaIndex is a data framework for your LLM applications
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.4.0](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.4.0), 1 week ago) - Build reliable, secure, and production-ready AI apps easily.
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.5](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.5), 1 week ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 
@@ -39,7 +39,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥 (2 weeks ago)
+- [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥 (3 weeks ago)
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs (3 weeks ago)
 - [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work! (1 month ago)
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (2 months ago)
