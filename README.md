@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.35](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.35), today) - LlamaIndex is a data framework for your LLM applications
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.3.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.3.1), today) - Build reliable, secure, and production-ready AI apps easily.
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.12.2](https://github.com/langfuse/langfuse-js/releases/tag/v3.12.2), today) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.36.2](https://github.com/langfuse/langfuse-python/releases/tag/v2.36.2), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.47](https://github.com/run-llama/llama_index/releases/tag/v0.10.47), today) - LlamaIndex is a data framework for your LLM applications
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.35](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.35), 1 day ago) - LlamaIndex is a data framework for your LLM applications
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.3.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.3.1), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.12.2](https://github.com/langfuse/langfuse-js/releases/tag/v3.12.2), 1 day ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.36.2](https://github.com/langfuse/langfuse-python/releases/tag/v2.36.2), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.47](https://github.com/run-llama/llama_index/releases/tag/v0.10.47), 1 day ago) - LlamaIndex is a data framework for your LLM applications
 
 #### 🔨 My recent Pull Requests
 
@@ -39,7 +39,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥 (3 weeks ago)
+- [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥 (4 weeks ago)
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs (1 month ago)
 - [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work! (1 month ago)
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (2 months ago)
