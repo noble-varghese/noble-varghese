@@ -6,7 +6,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
-- [noble-varghese/snake_and_ladder](https://github.com/noble-varghese/snake_and_ladder) -  (4 weeks ago)
+- [noble-varghese/snake_and_ladder](https://github.com/noble-varghese/snake_and_ladder) -  (1 month ago)
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework (2 months ago)
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework (2 months ago)
 - [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) -  (2 months ago)
@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.49](https://github.com/run-llama/llama_index/releases/tag/v0.10.49), today) - LlamaIndex is a data framework for your LLM applications
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.5.0](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.5.0), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.6](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.6), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.4.1](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.4.1), 2 days ago) - LlamaIndex is a data framework for your LLM applications
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.3.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.3.1), 3 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.49](https://github.com/run-llama/llama_index/releases/tag/v0.10.49), 1 day ago) - LlamaIndex is a data framework for your LLM applications
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.5.0](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.5.0), 2 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.6](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.6), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.4.1](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.4.1), 3 days ago) - LlamaIndex is a data framework for your LLM applications
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.3.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.3.1), 4 days ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
