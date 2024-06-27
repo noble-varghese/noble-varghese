@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.5.1](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.5.1), today) - Build reliable, secure, and production-ready AI apps easily.
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.4.5](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.4.5), today) - LlamaIndex is a data framework for your LLM applications
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.7](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.7), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.50](https://github.com/run-llama/llama_index/releases/tag/v0.10.50), 2 days ago) - LlamaIndex is a data framework for your LLM applications
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.3.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.3.1), 6 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.41](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.41), today) - LlamaIndex is a data framework for your LLM applications
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.5.1](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.5.1), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.7](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.7), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.50](https://github.com/run-llama/llama_index/releases/tag/v0.10.50), 3 days ago) - LlamaIndex is a data framework for your LLM applications
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.3.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.3.1), 1 week ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
