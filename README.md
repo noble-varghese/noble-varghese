@@ -22,10 +22,10 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.51](https://github.com/run-llama/llama_index/releases/tag/v0.10.51), 1 day ago) - LlamaIndex is a data framework for your LLM applications
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.6.0](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.6.0), 2 days ago) - Build reliable, secure, and production-ready AI apps easily.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.8](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.8), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.41](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.41), 3 days ago) - LlamaIndex is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.51](https://github.com/run-llama/llama_index/releases/tag/v0.10.51), 2 days ago) - LlamaIndex is a data framework for your LLM applications
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.6.0](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.6.0), 3 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.8](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.8), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.41](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.41), 4 days ago) - LlamaIndex is a data framework for your LLM applications
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.3.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.3.1), 1 week ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
@@ -43,7 +43,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs (1 month ago)
 - [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work! (1 month ago)
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (2 months ago)
-- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (2 months ago)
+- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (3 months ago)
 
 #### 💬 Feedback
 
