@@ -22,18 +22,18 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.43](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.43), today) - LlamaIndex is a data framework for your LLM applications
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.51](https://github.com/run-llama/llama_index/releases/tag/v0.10.51), 2 days ago) - LlamaIndex is a data framework for your LLM applications
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.6.0](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.6.0), 3 days ago) - Build reliable, secure, and production-ready AI apps easily.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.8](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.8), 3 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.4.9](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.4.9), today) - LlamaIndex is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.51](https://github.com/run-llama/llama_index/releases/tag/v0.10.51), 3 days ago) - LlamaIndex is a data framework for your LLM applications
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.6.0](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.6.0), 4 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.8](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.8), 4 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.3.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.3.1), 1 week ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
 - [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (2 months ago)
 - [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (2 months ago)
-- [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (2 months ago)
-- [feat: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (2 months ago)
+- [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (3 months ago)
+- [feat: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (3 months ago)
 - [Fix: langchain async and sync batch calls](https://github.com/langfuse/langfuse-python/pull/518) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (3 months ago)
 
 
