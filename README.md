@@ -22,7 +22,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.4.9](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.4.9), today) - LlamaIndex is a data framework for your LLM applications
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/community@0.0.14](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/community%400.0.14), today) - LlamaIndex is a data framework for your LLM applications
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.51](https://github.com/run-llama/llama_index/releases/tag/v0.10.51), 3 days ago) - LlamaIndex is a data framework for your LLM applications
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.6.0](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.6.0), 4 days ago) - Build reliable, secure, and production-ready AI apps easily.
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.8](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.8), 4 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
