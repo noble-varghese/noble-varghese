@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.15.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.15.0), today) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.39.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.39.0), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.54](https://github.com/run-llama/llama_index/releases/tag/v0.10.54), today) - LlamaIndex is a data framework for your LLM applications
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.5.3](https://github.com/Portkey-AI/gateway/releases/tag/v1.5.3), today) - A Blazing Fast AI Gateway. Route to 200&#43; LLMs with 1 fast &amp; friendly API.
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.3.2](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.3.2), today) - Build reliable, secure, and production-ready AI apps easily.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.9](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.9), today) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.5.1](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.5.1), 1 day ago) - LlamaIndex in TypeScript
 
 #### 🔨 My recent Pull Requests
 
@@ -39,11 +39,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (today)
 - [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥 (1 month ago)
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs (1 month ago)
 - [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work! (2 months ago)
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (3 months ago)
-- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code. (3 months ago)
 
 #### 💬 Feedback
 
