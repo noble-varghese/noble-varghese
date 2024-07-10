@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.54](https://github.com/run-llama/llama_index/releases/tag/v0.10.54), today) - LlamaIndex is a data framework for your LLM applications
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.5.3](https://github.com/Portkey-AI/gateway/releases/tag/v1.5.3), today) - A Blazing Fast AI Gateway. Route to 200&#43; LLMs with 1 fast &amp; friendly API.
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.3.2](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.3.2), today) - Build reliable, secure, and production-ready AI apps easily.
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.9](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.9), today) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.5.1](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.5.1), 1 day ago) - LlamaIndex in TypeScript
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.53](https://github.com/run-llama/llama_index/releases/tag/v0.10.53), 2 days ago) - LlamaIndex is a data framework for your LLM applications
 
 #### 🔨 My recent Pull Requests
 
