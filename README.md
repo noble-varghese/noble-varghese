@@ -22,10 +22,10 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.5.5](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.5.5), today) - LlamaIndex in TypeScript
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.10](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.10), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.55](https://github.com/run-llama/llama_index/releases/tag/v0.10.55), 5 days ago) - LlamaIndex is a data framework for your LLM applications
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.39.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.39.1), 6 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.5.5](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.5.5), 1 day ago) - LlamaIndex in TypeScript
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.10](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.10), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.55](https://github.com/run-llama/llama_index/releases/tag/v0.10.55), 6 days ago) - LlamaIndex is a data framework for your LLM applications
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.39.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.39.1), 1 week ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 - [google/go-github](https://github.com/google/go-github) ([v63.0.0](https://github.com/google/go-github/releases/tag/v63.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
