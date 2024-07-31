@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.62](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.62), today) - LlamaIndex in TypeScript
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.12](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.12), today) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.40.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.40.0), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.5.6](https://github.com/Portkey-AI/gateway/releases/tag/v1.5.6), 1 day ago) - A Blazing Fast AI Gateway. Route to 200&#43; LLMs with 1 fast &amp; friendly API.
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.7.1](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.7.1), 5 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.62](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.62), 1 day ago) - LlamaIndex in TypeScript
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.12](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.12), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.40.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.40.0), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.5.6](https://github.com/Portkey-AI/gateway/releases/tag/v1.5.6), 2 days ago) - A Blazing Fast AI Gateway. Route to 200&#43; LLMs with 1 fast &amp; friendly API.
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.7.1](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.7.1), 6 days ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
@@ -39,7 +39,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (2 weeks ago)
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (3 weeks ago)
 - [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥 (2 months ago)
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs (2 months ago)
 - [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work! (2 months ago)
