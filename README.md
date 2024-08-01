@@ -22,18 +22,18 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.7.2](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.7.2), today) - Build reliable, secure, and production-ready AI apps easily.
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.5.7](https://github.com/Portkey-AI/gateway/releases/tag/v1.5.7), today) - A Blazing Fast AI Gateway. Route to 200&#43; LLMs with 1 fast &amp; friendly API.
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.62](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.62), 1 day ago) - LlamaIndex in TypeScript
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.12](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.12), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.40.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.40.0), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.7.2](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.7.2), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.5.7](https://github.com/Portkey-AI/gateway/releases/tag/v1.5.7), 1 day ago) - A Blazing Fast AI Gateway. Route to 200&#43; LLMs with 1 fast &amp; friendly API.
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/experimental@0.0.62](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/experimental%400.0.62), 2 days ago) - LlamaIndex in TypeScript
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.12](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.12), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.40.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.40.0), 2 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 
 #### 🔨 My recent Pull Requests
 
 - [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (3 months ago)
 - [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (3 months ago)
-- [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (3 months ago)
-- [feat: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (3 months ago)
+- [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (4 months ago)
+- [feat: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (4 months ago)
 - [Fix: langchain async and sync batch calls](https://github.com/langfuse/langfuse-python/pull/518) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (4 months ago)
 
 
