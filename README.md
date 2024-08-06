@@ -8,7 +8,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 - [noble-varghese/snake_and_ladder](https://github.com/noble-varghese/snake_and_ladder) -  (2 months ago)
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework (3 months ago)
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework (3 months ago)
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework (4 months ago)
 - [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) -  (4 months ago)
 - [noble-varghese/portfolio](https://github.com/noble-varghese/portfolio) - A personal portfolio website built using Astro (4 months ago)
 
@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.41.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.41.0), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.5.13](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.5.13), 3 days ago) - LlamaIndex in TypeScript
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.17.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.17.0), 3 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.59](https://github.com/run-llama/llama_index/releases/tag/v0.10.59), 4 days ago) - LlamaIndex is a data framework for your LLM applications
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.7.2](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.7.2), 5 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.10.61](https://github.com/run-llama/llama_index/releases/tag/v0.10.61), today) - LlamaIndex is a data framework for your LLM applications
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.41.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.41.0), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.5.13](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.5.13), 4 days ago) - LlamaIndex in TypeScript
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.17.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.17.0), 4 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.7.2](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.7.2), 6 days ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
