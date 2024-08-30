@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.45.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.45.1), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.7.2](https://github.com/Portkey-AI/gateway/releases/tag/v1.7.2), today) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API.
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.8.5](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.8.5), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.5.20](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.5.20), 1 day ago) - LlamaIndex in TypeScript
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.11.2](https://github.com/run-llama/llama_index/releases/tag/v0.11.2), 1 day ago) - LlamaIndex is a data framework for your LLM applications
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.45.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.45.1), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.7.2](https://github.com/Portkey-AI/gateway/releases/tag/v1.7.2), 1 day ago) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API.
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.8.5](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.8.5), 2 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.5.20](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.5.20), 2 days ago) - LlamaIndex in TypeScript
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.11.2](https://github.com/run-llama/llama_index/releases/tag/v0.11.2), 2 days ago) - LlamaIndex is a data framework for your LLM applications
 
 #### 🔨 My recent Pull Requests
 
@@ -39,7 +39,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (2 weeks ago)
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (3 weeks ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (1 month ago)
 - [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥 (3 months ago)
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs (3 months ago)
