@@ -22,16 +22,16 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.7.3](https://github.com/Portkey-AI/gateway/releases/tag/v1.7.3), today) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API.
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.8.6](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.8.6), today) - Build reliable, secure, and production-ready AI apps easily.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.11.3](https://github.com/run-llama/llama_index/releases/tag/v0.11.3), 1 day ago) - LlamaIndex is a data framework for your LLM applications
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.45.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.45.1), 2 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.5.20](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.5.20), 3 days ago) - LlamaIndex in TypeScript
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.7.3](https://github.com/Portkey-AI/gateway/releases/tag/v1.7.3), 1 day ago) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API.
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.8.6](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.8.6), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.11.3](https://github.com/run-llama/llama_index/releases/tag/v0.11.3), 2 days ago) - LlamaIndex is a data framework for your LLM applications
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.45.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.45.1), 3 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.5.20](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.5.20), 4 days ago) - LlamaIndex in TypeScript
 
 #### 🔨 My recent Pull Requests
 
 - [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (4 months ago)
-- [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (4 months ago)
+- [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (5 months ago)
 - [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (5 months ago)
 - [feat: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (5 months ago)
 - [Fix: langchain async and sync batch calls](https://github.com/langfuse/langfuse-python/pull/518) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (5 months ago)
