@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.8.7](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.8.7), today) - Build reliable, secure, and production-ready AI apps easily.
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.46.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.46.0), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.20.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.20.0), 2 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.11.4](https://github.com/run-llama/llama_index/releases/tag/v0.11.4), 2 days ago) - LlamaIndex is a data framework for your LLM applications
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.7.3](https://github.com/Portkey-AI/gateway/releases/tag/v1.7.3), 4 days ago) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API.
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.8.6](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.8.6), 4 days ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
