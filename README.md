@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.11.6](https://github.com/run-llama/llama_index/releases/tag/v0.11.6), today) - LlamaIndex is a data framework for your LLM applications
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.21.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.21.0), today) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.4.0-rc.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.4.0-rc.1), today) - Build reliable, secure, and production-ready AI apps easily.
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.46.3](https://github.com/langfuse/langfuse-python/releases/tag/v2.46.3), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.18](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.18), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.11.6](https://github.com/run-llama/llama_index/releases/tag/v0.11.6), 1 day ago) - LlamaIndex is a data framework for your LLM applications
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.21.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.21.0), 1 day ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.4.0-rc.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.4.0-rc.1), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.46.3](https://github.com/langfuse/langfuse-python/releases/tag/v2.46.3), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.18](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.18), 2 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 
 #### 🔨 My recent Pull Requests
 
@@ -39,11 +39,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (3 weeks ago)
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (4 weeks ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (1 month ago)
 - [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥 (3 months ago)
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs (3 months ago)
-- [keploy/keploy](https://github.com/keploy/keploy) - Shadow Test generation for Developers. Generate tests and stubs for your application that actually work! (3 months ago)
+- [keploy/keploy](https://github.com/keploy/keploy) - Shadow Test generation for Developers. Generate tests and stubs for your application that actually work! (4 months ago)
 
 #### 💬 Feedback
 
