@@ -22,10 +22,10 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.5.22](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.5.22), today) - LlamaIndex in TypeScript
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.23.1](https://github.com/langfuse/langfuse-js/releases/tag/v3.23.1), today) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.47.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.47.1), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.11.7](https://github.com/run-llama/llama_index/releases/tag/v0.11.7), 2 days ago) - LlamaIndex is a data framework for your LLM applications
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.5.21](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.5.21), 3 days ago) - LlamaIndex in TypeScript
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.4.0-rc.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.4.0-rc.1), 4 days ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
