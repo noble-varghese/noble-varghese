@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.7.4](https://github.com/Portkey-AI/gateway/releases/tag/v1.7.4), today) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API.
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.5.23](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.5.23), today) - LlamaIndex in TypeScript
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.48.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.48.0), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.11.8](https://github.com/run-llama/llama_index/releases/tag/v0.11.8), today) - LlamaIndex is a data framework for your LLM applications
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.23.1](https://github.com/langfuse/langfuse-js/releases/tag/v3.23.1), 1 day ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.7.4](https://github.com/Portkey-AI/gateway/releases/tag/v1.7.4), 1 day ago) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API.
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.5.23](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.5.23), 1 day ago) - LlamaIndex in TypeScript
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.48.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.48.0), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.11.8](https://github.com/run-llama/llama_index/releases/tag/v0.11.8), 1 day ago) - LlamaIndex is a data framework for your LLM applications
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.23.1](https://github.com/langfuse/langfuse-js/releases/tag/v3.23.1), 2 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 
 #### 🔨 My recent Pull Requests
 
@@ -39,8 +39,8 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (1 day ago)
-- [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick) - Connect Falco to your ecosystem (2 days ago)
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (2 days ago)
+- [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick) - Connect Falco to your ecosystem (3 days ago)
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 month ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (2 months ago)
 - [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥 (3 months ago)
