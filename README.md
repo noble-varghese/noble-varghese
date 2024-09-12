@@ -22,9 +22,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.5.26](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.5.26), today) - LlamaIndex in TypeScript
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.24.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.24.0), today) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.2.19](https://github.com/langchain-ai/langchainjs/releases/tag/0.2.19), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.5.25](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.5.25), 1 day ago) - LlamaIndex in TypeScript
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.7.5](https://github.com/Portkey-AI/gateway/releases/tag/v1.7.5), 1 day ago) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API.
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.48.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.48.0), 2 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 
