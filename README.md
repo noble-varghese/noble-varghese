@@ -25,8 +25,8 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.3.2](https://github.com/langchain-ai/langchainjs/releases/tag/0.3.2), today) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.48.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.48.1), 2 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.6.0](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.6.0), 2 days ago) - LlamaIndex in TypeScript
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) ([v0.11.9](https://github.com/run-llama/llama_index/releases/tag/v0.11.9), 3 days ago) - LlamaIndex is a data framework for your LLM applications
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.7.6](https://github.com/Portkey-AI/gateway/releases/tag/v1.7.6), 3 days ago) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API.
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.24.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.24.0), 3 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 
 #### 🔨 My recent Pull Requests
 
