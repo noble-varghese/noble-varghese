@@ -22,10 +22,10 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/groq@0.0.2](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/groq%400.0.2), today) - LlamaIndex in TypeScript
 - [google/go-github](https://github.com/google/go-github) ([v65.0.0](https://github.com/google/go-github/releases/tag/v65.0.0), today) - Go library for accessing the GitHub v3 API
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.3.2](https://github.com/langchain-ai/langchainjs/releases/tag/0.3.2), 1 day ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.48.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.48.1), 3 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([llamaindex@0.6.0](https://github.com/run-llama/LlamaIndexTS/releases/tag/llamaindex%400.6.0), 3 days ago) - LlamaIndex in TypeScript
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.7.6](https://github.com/Portkey-AI/gateway/releases/tag/v1.7.6), 4 days ago) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API.
 
 #### 🔨 My recent Pull Requests
