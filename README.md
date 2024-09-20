@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/groq@0.0.4](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/groq%400.0.4), today) - LlamaIndex in TypeScript
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.50.2](https://github.com/langfuse/langfuse-python/releases/tag/v2.50.2), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.25.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.25.0), 2 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
-- [google/go-github](https://github.com/google/go-github) ([v65.0.0](https://github.com/google/go-github/releases/tag/v65.0.0), 3 days ago) - Go library for accessing the GitHub v3 API
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.3.2](https://github.com/langchain-ai/langchainjs/releases/tag/0.3.2), 4 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/groq@0.0.5](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/groq%400.0.5), 1 day ago) - LlamaIndex in TypeScript
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.50.2](https://github.com/langfuse/langfuse-python/releases/tag/v2.50.2), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.25.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.25.0), 3 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
+- [google/go-github](https://github.com/google/go-github) ([v65.0.0](https://github.com/google/go-github/releases/tag/v65.0.0), 4 days ago) - Go library for accessing the GitHub v3 API
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.3.2](https://github.com/langchain-ai/langchainjs/releases/tag/0.3.2), 5 days ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 
 #### 🔨 My recent Pull Requests
 
