@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) ([@llamaindex/ollama@0.0.3](https://github.com/run-llama/LlamaIndexTS/releases/tag/%40llamaindex/ollama%400.0.3), 1 day ago) - LlamaIndex in TypeScript
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.51.2](https://github.com/langfuse/langfuse-python/releases/tag/v2.51.2), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.26.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.26.0), 3 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.4.0](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.4.0), 3 days ago) - Build reliable, secure, and production-ready AI apps easily.
 - [google/go-github](https://github.com/google/go-github) ([v65.0.0](https://github.com/google/go-github/releases/tag/v65.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.3.2](https://github.com/langchain-ai/langchainjs/releases/tag/0.3.2), 1 week ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 
 #### 🔨 My recent Pull Requests
 
