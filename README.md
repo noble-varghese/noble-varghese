@@ -22,24 +22,24 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.51.2](https://github.com/langfuse/langfuse-python/releases/tag/v2.51.2), 2 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.26.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.26.0), 4 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.4.0](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.4.0), 4 days ago) - Build reliable, secure, and production-ready AI apps easily.
-- [google/go-github](https://github.com/google/go-github) ([v65.0.0](https://github.com/google/go-github/releases/tag/v65.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.51.2](https://github.com/langfuse/langfuse-python/releases/tag/v2.51.2), 3 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.26.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.26.0), 5 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.4.0](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.4.0), 5 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [google/go-github](https://github.com/google/go-github) ([v65.0.0](https://github.com/google/go-github/releases/tag/v65.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ([0.3.2](https://github.com/langchain-ai/langchainjs/releases/tag/0.3.2), 2 weeks ago) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 
 #### 🔨 My recent Pull Requests
 
 - [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (5 months ago)
 - [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (5 months ago)
-- [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (5 months ago)
-- [feat: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (5 months ago)
+- [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (6 months ago)
+- [feat: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (6 months ago)
 - [Fix: langchain async and sync batch calls](https://github.com/langfuse/langfuse-python/pull/518) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (6 months ago)
 
 
 #### ⭐ Recent Stars
 
-- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (2 weeks ago)
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (3 weeks ago)
 - [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick) - Connect Falco to your ecosystem (3 weeks ago)
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 month ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (2 months ago)
