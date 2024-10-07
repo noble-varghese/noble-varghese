@@ -22,10 +22,10 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/go-github](https://github.com/google/go-github) ([v66.0.0](https://github.com/google/go-github/releases/tag/v66.0.0), today) - Go library for accessing the GitHub v3 API
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.51.3](https://github.com/langfuse/langfuse-python/releases/tag/v2.51.3), 3 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.27.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.27.0), 4 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.7.7](https://github.com/Portkey-AI/gateway/releases/tag/v1.7.7), 5 days ago) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API.
+- [google/go-github](https://github.com/google/go-github) ([v66.0.0](https://github.com/google/go-github/releases/tag/v66.0.0), 1 day ago) - Go library for accessing the GitHub v3 API
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.51.3](https://github.com/langfuse/langfuse-python/releases/tag/v2.51.3), 4 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.27.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.27.0), 5 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.7.7](https://github.com/Portkey-AI/gateway/releases/tag/v1.7.7), 6 days ago) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API.
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.4.0](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.4.0), 1 week ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
@@ -39,7 +39,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (3 weeks ago)
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (4 weeks ago)
 - [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick) - Connect Falco to your ecosystem (4 weeks ago)
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 month ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (2 months ago)
