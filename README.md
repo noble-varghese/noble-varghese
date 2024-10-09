@@ -22,15 +22,15 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.9.0](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.9.0), today) - Build reliable, secure, and production-ready AI apps easily.
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.51.4](https://github.com/langfuse/langfuse-python/releases/tag/v2.51.4), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [google/go-github](https://github.com/google/go-github) ([v66.0.0](https://github.com/google/go-github/releases/tag/v66.0.0), 2 days ago) - Go library for accessing the GitHub v3 API
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.27.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.27.0), 6 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.51.5](https://github.com/langfuse/langfuse-python/releases/tag/v2.51.5), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.9.0](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.9.0), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
+- [google/go-github](https://github.com/google/go-github) ([v66.0.0](https://github.com/google/go-github/releases/tag/v66.0.0), 3 days ago) - Go library for accessing the GitHub v3 API
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.27.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.27.0), 1 week ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.7.7](https://github.com/Portkey-AI/gateway/releases/tag/v1.7.7), 1 week ago) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API.
 
 #### 🔨 My recent Pull Requests
 
-- [enhancement(http sink): Retrying the HTTP sink in case of 404s and request timeouts](https://github.com/vectordotdev/vector/pull/21457) on [vectordotdev/vector](https://github.com/vectordotdev/vector) (today)
+- [enhancement(http sink): Retrying the HTTP sink in case of 404s and request timeouts](https://github.com/vectordotdev/vector/pull/21457) on [vectordotdev/vector](https://github.com/vectordotdev/vector) (1 day ago)
 - [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (6 months ago)
 - [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (6 months ago)
 - [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (6 months ago)
@@ -39,7 +39,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (4 weeks ago)
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (1 month ago)
 - [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick) - Connect Falco to your ecosystem (1 month ago)
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (2 months ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (3 months ago)
