@@ -22,15 +22,15 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.9.1](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.9.1), today) - Build reliable, secure, and production-ready AI apps easily.
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.52.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.52.0), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.5.0](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.5.0), today) - Build reliable, secure, and production-ready AI apps easily.
-- [google/go-github](https://github.com/google/go-github) ([v66.0.0](https://github.com/google/go-github/releases/tag/v66.0.0), 3 days ago) - Go library for accessing the GitHub v3 API
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.9.1](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.9.1), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.52.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.52.0), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.5.0](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.5.0), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
+- [google/go-github](https://github.com/google/go-github) ([v66.0.0](https://github.com/google/go-github/releases/tag/v66.0.0), 4 days ago) - Go library for accessing the GitHub v3 API
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.27.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.27.0), 1 week ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 
 #### 🔨 My recent Pull Requests
 
-- [enhancement(http sink): Retrying the HTTP sink in case of 404s and request timeouts](https://github.com/vectordotdev/vector/pull/21457) on [vectordotdev/vector](https://github.com/vectordotdev/vector) (1 day ago)
+- [enhancement(http sink): Retrying the HTTP sink in case of 404s and request timeouts](https://github.com/vectordotdev/vector/pull/21457) on [vectordotdev/vector](https://github.com/vectordotdev/vector) (2 days ago)
 - [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (6 months ago)
 - [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (6 months ago)
 - [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (6 months ago)
