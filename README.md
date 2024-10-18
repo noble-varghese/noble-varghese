@@ -6,19 +6,19 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
+- [noble-varghese/notes](https://github.com/noble-varghese/notes) -  (3 days ago)
 - [noble-varghese/personal-blog](https://github.com/noble-varghese/personal-blog) - Personal profile for github, (1 month ago)
 - [noble-varghese/snake_and_ladder](https://github.com/noble-varghese/snake_and_ladder) -  (4 months ago)
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework (6 months ago)
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework (6 months ago)
-- [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) -  (6 months ago)
 
 #### 🌱 My latest projects
 
+- [noble-varghese/notes](https://github.com/noble-varghese/notes) - 
 - [noble-varghese/personal-blog](https://github.com/noble-varghese/personal-blog) - Personal profile for github,
 - [noble-varghese/snake_and_ladder](https://github.com/noble-varghese/snake_and_ladder) - 
 - [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) - 
 - [noble-varghese/portkey-gpt](https://github.com/noble-varghese/portkey-gpt) - A chat interface for portkey
-- [noble-varghese/rubeus_docs](https://github.com/noble-varghese/rubeus_docs) - 
 
 #### 🔭 Latest releases I've contributed to
 
