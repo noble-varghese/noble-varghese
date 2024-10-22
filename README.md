@@ -22,7 +22,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.9.2](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.9.2), 4 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.9.3](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.9.3), today) - Build reliable, secure, and production-ready AI apps easily.
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.52.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.52.1), 5 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.5.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.5.1), 1 week ago) - Build reliable, secure, and production-ready AI apps easily.
 - [google/go-github](https://github.com/google/go-github) ([v66.0.0](https://github.com/google/go-github/releases/tag/v66.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
