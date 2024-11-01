@@ -22,9 +22,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.53.3](https://github.com/langfuse/langfuse-python/releases/tag/v2.53.3), 2 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.28.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.28.0), 6 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.8.0](https://github.com/Portkey-AI/gateway/releases/tag/v1.8.0), 6 days ago) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API.
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.53.3](https://github.com/langfuse/langfuse-python/releases/tag/v2.53.3), 3 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.28.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.28.0), 1 week ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ([v1.8.0](https://github.com/Portkey-AI/gateway/releases/tag/v1.8.0), 1 week ago) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API.
 - [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.9.3](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.9.3), 1 week ago) - Build reliable, secure, and production-ready AI apps easily.
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.5.1](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.5.1), 3 weeks ago) - Build reliable, secure, and production-ready AI apps easily.
 
