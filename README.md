@@ -6,9 +6,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (5 days ago)
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (6 days ago)
 - [noble-varghese/notes](https://github.com/noble-varghese/notes) -  (4 weeks ago)
-- [noble-varghese/personal-blog](https://github.com/noble-varghese/personal-blog) - Personal profile for github, (1 month ago)
+- [noble-varghese/personal-blog](https://github.com/noble-varghese/personal-blog) - Personal profile for github, (2 months ago)
 - [noble-varghese/snake_and_ladder](https://github.com/noble-varghese/snake_and_ladder) -  (5 months ago)
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework (7 months ago)
 
@@ -22,9 +22,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.5.2](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.5.2), 5 days ago) - Build reliable, secure, and production-ready AI apps easily.
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.9.4](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.9.4), 5 days ago) - Build reliable, secure, and production-ready AI apps easily.
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.53.9](https://github.com/langfuse/langfuse-python/releases/tag/v2.53.9), 6 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.5.2](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.5.2), 6 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.9.4](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.9.4), 6 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.53.9](https://github.com/langfuse/langfuse-python/releases/tag/v2.53.9), 1 week ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.29.1](https://github.com/langfuse/langfuse-js/releases/tag/v3.29.1), 1 week ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.42.0](https://github.com/vectordotdev/vector/releases/tag/v0.42.0), 3 weeks ago) - A high-performance observability data pipeline.
 
@@ -39,8 +39,8 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM&#39;s practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices (2 weeks ago)
-- [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. (4 weeks ago)
+- [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM&#39;s practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices (3 weeks ago)
+- [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. (1 month ago)
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. (1 month ago)
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (2 months ago)
 - [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick) - Connect Falco to your ecosystem (2 months ago)
