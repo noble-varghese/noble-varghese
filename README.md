@@ -22,9 +22,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.5.4](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.5.4), today) - Build reliable, secure, and production-ready AI apps easily.
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.9.6](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.9.6), today) - Build reliable, secure, and production-ready AI apps easily.
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.30.4](https://github.com/langfuse/langfuse-js/releases/tag/v3.30.4), today) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.5.3](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.5.3), 5 days ago) - Build reliable, secure, and production-ready AI apps easily.
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.9.5](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.9.5), 5 days ago) - Build reliable, secure, and production-ready AI apps easily.
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.54.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.54.1), 6 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.42.0](https://github.com/vectordotdev/vector/releases/tag/v0.42.0), 1 month ago) - A high-performance observability data pipeline.
 
