@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.9.7](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.9.7), 2 days ago) - Build reliable, secure, and production-ready AI apps easily.
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.55.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.55.0), 3 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [google/go-github](https://github.com/google/go-github) ([v67.0.0](https://github.com/google/go-github/releases/tag/v67.0.0), 4 days ago) - Go library for accessing the GitHub v3 API
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.31.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.31.0), 5 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.5.4](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.5.4), 5 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.9.7](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.9.7), 3 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.55.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.55.0), 4 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [google/go-github](https://github.com/google/go-github) ([v67.0.0](https://github.com/google/go-github/releases/tag/v67.0.0), 5 days ago) - Go library for accessing the GitHub v3 API
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.31.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.31.0), 6 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.5.4](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.5.4), 6 days ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
