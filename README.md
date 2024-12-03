@@ -22,16 +22,16 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.9.7](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.9.7), 3 days ago) - Build reliable, secure, and production-ready AI apps easily.
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.55.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.55.0), 4 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [google/go-github](https://github.com/google/go-github) ([v67.0.0](https://github.com/google/go-github/releases/tag/v67.0.0), 5 days ago) - Go library for accessing the GitHub v3 API
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.31.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.31.0), 6 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.5.4](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.5.4), 6 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [Portkey-AI/portkey-python-sdk](https://github.com/Portkey-AI/portkey-python-sdk) ([v1.9.7](https://github.com/Portkey-AI/portkey-python-sdk/releases/tag/v1.9.7), 4 days ago) - Build reliable, secure, and production-ready AI apps easily.
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.55.0](https://github.com/langfuse/langfuse-python/releases/tag/v2.55.0), 5 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [google/go-github](https://github.com/google/go-github) ([v67.0.0](https://github.com/google/go-github/releases/tag/v67.0.0), 6 days ago) - Go library for accessing the GitHub v3 API
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.31.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.31.0), 1 week ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
+- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.5.4](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.5.4), 1 week ago) - Build reliable, secure, and production-ready AI apps easily.
 
 #### 🔨 My recent Pull Requests
 
 - [enhancement(http sink): Retrying the HTTP sink in case of 404s and request timeouts](https://github.com/vectordotdev/vector/pull/21457) on [vectordotdev/vector](https://github.com/vectordotdev/vector) (1 month ago)
-- [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (7 months ago)
+- [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (8 months ago)
 - [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (8 months ago)
 - [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (8 months ago)
 - [feat: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (8 months ago)
@@ -39,7 +39,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (today)
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 day ago)
 - [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM&#39;s practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices (1 month ago)
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. (1 month ago)
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. (1 month ago)
