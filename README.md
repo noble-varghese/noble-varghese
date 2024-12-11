@@ -10,7 +10,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 - [noble-varghese/notes](https://github.com/noble-varghese/notes) -  (1 month ago)
 - [noble-varghese/personal-blog](https://github.com/noble-varghese/personal-blog) - Personal profile for github, (2 months ago)
 - [noble-varghese/snake_and_ladder](https://github.com/noble-varghese/snake_and_ladder) -  (6 months ago)
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework (7 months ago)
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -22,9 +22,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.43.1](https://github.com/vectordotdev/vector/releases/tag/v0.43.1), today) - A high-performance observability data pipeline.
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.56.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.56.1), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [google/go-github](https://github.com/google/go-github) ([v67.0.0](https://github.com/google/go-github/releases/tag/v67.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.43.1](https://github.com/vectordotdev/vector/releases/tag/v0.43.1), 1 day ago) - A high-performance observability data pipeline.
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.56.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.56.1), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [google/go-github](https://github.com/google/go-github) ([v67.0.0](https://github.com/google/go-github/releases/tag/v67.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.31.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.31.0), 2 weeks ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.5.4](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.5.4), 2 weeks ago) - Build reliable, secure, and production-ready AI apps easily.
 
