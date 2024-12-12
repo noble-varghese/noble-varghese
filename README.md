@@ -24,7 +24,6 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.56.2](https://github.com/langfuse/langfuse-python/releases/tag/v2.56.2), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.31.3](https://github.com/langfuse/langfuse-js/releases/tag/v3.31.3), 1 day ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
-- [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) ([v1.5.5](https://github.com/Portkey-AI/portkey-node-sdk/releases/tag/v1.5.5), 1 day ago) - Build reliable, secure, and production-ready AI apps easily.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.43.1](https://github.com/vectordotdev/vector/releases/tag/v0.43.1), 2 days ago) - A high-performance observability data pipeline.
 - [google/go-github](https://github.com/google/go-github) ([v67.0.0](https://github.com/google/go-github/releases/tag/v67.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 
