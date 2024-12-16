@@ -6,19 +6,19 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
+- [noble-varghese/scribe](https://github.com/noble-varghese/scribe) - A lightweight cross platform text-expander written in golang. (today)
+- [noble-varghese/homebrew-scribe](https://github.com/noble-varghese/homebrew-scribe) -  (today)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (1 month ago)
 - [noble-varghese/notes](https://github.com/noble-varghese/notes) -  (2 months ago)
 - [noble-varghese/personal-blog](https://github.com/noble-varghese/personal-blog) - Personal profile for github, (3 months ago)
-- [noble-varghese/snake_and_ladder](https://github.com/noble-varghese/snake_and_ladder) -  (6 months ago)
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework (8 months ago)
 
 #### 🌱 My latest projects
 
+- [noble-varghese/homebrew-scribe](https://github.com/noble-varghese/homebrew-scribe) - 
+- [noble-varghese/scribe](https://github.com/noble-varghese/scribe) - A lightweight cross platform text-expander written in golang.
 - [noble-varghese/notes](https://github.com/noble-varghese/notes) - 
 - [noble-varghese/personal-blog](https://github.com/noble-varghese/personal-blog) - Personal profile for github,
 - [noble-varghese/snake_and_ladder](https://github.com/noble-varghese/snake_and_ladder) - 
-- [noble-varghese/dynamofl](https://github.com/noble-varghese/dynamofl) - 
-- [noble-varghese/portkey-gpt](https://github.com/noble-varghese/portkey-gpt) - A chat interface for portkey
 
 #### 🔭 Latest releases I've contributed to
 
