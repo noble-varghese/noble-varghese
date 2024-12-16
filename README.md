@@ -22,9 +22,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.56.2](https://github.com/langfuse/langfuse-python/releases/tag/v2.56.2), 3 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.31.3](https://github.com/langfuse/langfuse-js/releases/tag/v3.31.3), 4 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.43.1](https://github.com/vectordotdev/vector/releases/tag/v0.43.1), 5 days ago) - A high-performance observability data pipeline.
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.56.2](https://github.com/langfuse/langfuse-python/releases/tag/v2.56.2), 4 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.31.3](https://github.com/langfuse/langfuse-js/releases/tag/v3.31.3), 5 days ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.43.1](https://github.com/vectordotdev/vector/releases/tag/v0.43.1), 6 days ago) - A high-performance observability data pipeline.
 - [google/go-github](https://github.com/google/go-github) ([v67.0.0](https://github.com/google/go-github/releases/tag/v67.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
@@ -38,7 +38,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 week ago)
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (2 weeks ago)
 - [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM&#39;s practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices (1 month ago)
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. (2 months ago)
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. (2 months ago)
