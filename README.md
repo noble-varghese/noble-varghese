@@ -22,7 +22,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.28](https://github.com/noble-varghese/scribe/releases/tag/v0.1.28), today) - A lightweight cross platform text-expander written in golang.
+- [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.30](https://github.com/noble-varghese/scribe/releases/tag/v0.1.30), today) - A lightweight cross platform text-expander written in golang.
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.56.2](https://github.com/langfuse/langfuse-python/releases/tag/v2.56.2), 1 week ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.31.3](https://github.com/langfuse/langfuse-js/releases/tag/v3.31.3), 1 week ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.43.1](https://github.com/vectordotdev/vector/releases/tag/v0.43.1), 1 week ago) - A high-performance observability data pipeline.
