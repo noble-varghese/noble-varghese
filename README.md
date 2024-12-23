@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
+- [google/go-github](https://github.com/google/go-github) ([v68.0.0](https://github.com/google/go-github/releases/tag/v68.0.0), today) - Go library for accessing the GitHub v3 API
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.57.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.57.1), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.30](https://github.com/noble-varghese/scribe/releases/tag/v0.1.30), 3 days ago) - A lightweight cross platform text-expander written in golang.
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.31.3](https://github.com/langfuse/langfuse-js/releases/tag/v3.31.3), 1 week ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.43.1](https://github.com/vectordotdev/vector/releases/tag/v0.43.1), 1 week ago) - A high-performance observability data pipeline.
-- [google/go-github](https://github.com/google/go-github) ([v67.0.0](https://github.com/google/go-github/releases/tag/v67.0.0), 3 weeks ago) - Go library for accessing the GitHub v3 API
 
 #### 🔨 My recent Pull Requests
 
