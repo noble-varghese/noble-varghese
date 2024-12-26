@@ -6,7 +6,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
-- [noble-varghese/scribe](https://github.com/noble-varghese/scribe) - A lightweight cross platform text-expander written in golang. (4 days ago)
+- [noble-varghese/scribe](https://github.com/noble-varghese/scribe) - A lightweight cross platform text-expander written in golang. (5 days ago)
 - [noble-varghese/homebrew-scribe](https://github.com/noble-varghese/homebrew-scribe) -  (1 week ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (1 month ago)
 - [noble-varghese/notes](https://github.com/noble-varghese/notes) -  (2 months ago)
@@ -22,9 +22,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/go-github](https://github.com/google/go-github) ([v68.0.0](https://github.com/google/go-github/releases/tag/v68.0.0), 2 days ago) - Go library for accessing the GitHub v3 API
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.57.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.57.1), 3 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.30](https://github.com/noble-varghese/scribe/releases/tag/v0.1.30), 5 days ago) - A lightweight cross platform text-expander written in golang.
+- [google/go-github](https://github.com/google/go-github) ([v68.0.0](https://github.com/google/go-github/releases/tag/v68.0.0), 3 days ago) - Go library for accessing the GitHub v3 API
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.57.1](https://github.com/langfuse/langfuse-python/releases/tag/v2.57.1), 4 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.30](https://github.com/noble-varghese/scribe/releases/tag/v0.1.30), 6 days ago) - A lightweight cross platform text-expander written in golang.
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.31.3](https://github.com/langfuse/langfuse-js/releases/tag/v3.31.3), 2 weeks ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.43.1](https://github.com/vectordotdev/vector/releases/tag/v0.43.1), 2 weeks ago) - A high-performance observability data pipeline.
 
@@ -39,7 +39,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (3 days ago)
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (4 days ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (3 weeks ago)
 - [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM&#39;s practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices (2 months ago)
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. (2 months ago)
