@@ -7,8 +7,8 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 #### 👷 Check out what I'm currently working on
 
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) - A lightweight cross platform text-expander written in golang. (2 weeks ago)
-- [noble-varghese/homebrew-scribe](https://github.com/noble-varghese/homebrew-scribe) -  (2 weeks ago)
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (1 month ago)
+- [noble-varghese/homebrew-scribe](https://github.com/noble-varghese/homebrew-scribe) -  (3 weeks ago)
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (2 months ago)
 - [noble-varghese/notes](https://github.com/noble-varghese/notes) -  (2 months ago)
 - [noble-varghese/personal-blog](https://github.com/noble-varghese/personal-blog) - Personal profile for github, (3 months ago)
 
@@ -22,15 +22,15 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.57.4](https://github.com/langfuse/langfuse-python/releases/tag/v2.57.4), 3 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [google/go-github](https://github.com/google/go-github) ([v68.0.0](https://github.com/google/go-github/releases/tag/v68.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.57.4](https://github.com/langfuse/langfuse-python/releases/tag/v2.57.4), 4 days ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [google/go-github](https://github.com/google/go-github) ([v68.0.0](https://github.com/google/go-github/releases/tag/v68.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.30](https://github.com/noble-varghese/scribe/releases/tag/v0.1.30), 2 weeks ago) - A lightweight cross platform text-expander written in golang.
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.31.3](https://github.com/langfuse/langfuse-js/releases/tag/v3.31.3), 3 weeks ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.43.1](https://github.com/vectordotdev/vector/releases/tag/v0.43.1), 3 weeks ago) - A high-performance observability data pipeline.
 
 #### 🔨 My recent Pull Requests
 
-- [enhancement(http sink): Retrying the HTTP sink in case of 404s and request timeouts](https://github.com/vectordotdev/vector/pull/21457) on [vectordotdev/vector](https://github.com/vectordotdev/vector) (2 months ago)
+- [enhancement(http sink): Retrying the HTTP sink in case of 404s and request timeouts](https://github.com/vectordotdev/vector/pull/21457) on [vectordotdev/vector](https://github.com/vectordotdev/vector) (3 months ago)
 - [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (9 months ago)
 - [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (9 months ago)
 - [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (9 months ago)
