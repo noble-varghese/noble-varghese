@@ -22,11 +22,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.57.5](https://github.com/langfuse/langfuse-python/releases/tag/v2.57.5), today) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.57.5](https://github.com/langfuse/langfuse-python/releases/tag/v2.57.5), 1 day ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 - [google/go-github](https://github.com/google/go-github) ([v68.0.0](https://github.com/google/go-github/releases/tag/v68.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.30](https://github.com/noble-varghese/scribe/releases/tag/v0.1.30), 2 weeks ago) - A lightweight cross platform text-expander written in golang.
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.31.3](https://github.com/langfuse/langfuse-js/releases/tag/v3.31.3), 3 weeks ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.43.1](https://github.com/vectordotdev/vector/releases/tag/v0.43.1), 3 weeks ago) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.43.1](https://github.com/vectordotdev/vector/releases/tag/v0.43.1), 4 weeks ago) - A high-performance observability data pipeline.
 
 #### 🔨 My recent Pull Requests
 
