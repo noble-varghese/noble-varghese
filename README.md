@@ -23,7 +23,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 #### 🔭 Latest releases I've contributed to
 
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.59.3](https://github.com/langfuse/langfuse-python/releases/tag/v2.59.3), 1 week ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.35.2](https://github.com/langfuse/langfuse-js/releases/tag/v3.35.2), 1 week ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.35.2](https://github.com/langfuse/langfuse-js/releases/tag/v3.35.2), 2 weeks ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.44.0](https://github.com/vectordotdev/vector/releases/tag/v0.44.0), 1 month ago) - A high-performance observability data pipeline.
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.30](https://github.com/noble-varghese/scribe/releases/tag/v0.1.30), 2 months ago) - A lightweight cross platform text-expander written in golang.
 
@@ -38,7 +38,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (2 days ago)
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (3 days ago)
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (2 months ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (2 months ago)
 - [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM&#39;s practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices (4 months ago)
