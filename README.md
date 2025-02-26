@@ -14,11 +14,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🌱 My latest projects
 
+- [noble-varghese/bookly](https://github.com/noble-varghese/bookly) - A simple library application
 - [noble-varghese/homebrew-scribe](https://github.com/noble-varghese/homebrew-scribe) - 
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) - A lightweight cross platform text-expander written in golang.
 - [noble-varghese/notes](https://github.com/noble-varghese/notes) - 
 - [noble-varghese/personal-blog](https://github.com/noble-varghese/personal-blog) - Personal profile for github,
-- [noble-varghese/snake_and_ladder](https://github.com/noble-varghese/snake_and_ladder) - 
 
 #### 🔭 Latest releases I've contributed to
 
