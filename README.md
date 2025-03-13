@@ -10,7 +10,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 - [noble-varghese/homebrew-scribe](https://github.com/noble-varghese/homebrew-scribe) -  (2 months ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (4 months ago)
 - [noble-varghese/notes](https://github.com/noble-varghese/notes) -  (4 months ago)
-- [noble-varghese/personal-blog](https://github.com/noble-varghese/personal-blog) - Personal profile for github, (5 months ago)
+- [noble-varghese/personal-blog](https://github.com/noble-varghese/personal-blog) - Personal profile for github, (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -38,8 +38,8 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (1 day ago)
-- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust (5 days ago)
+- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (2 days ago)
+- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust (6 days ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (2 weeks ago)
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (2 months ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (3 months ago)
