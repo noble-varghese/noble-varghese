@@ -7,7 +7,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 #### 👷 Check out what I'm currently working on
 
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) - A lightweight cross platform text-expander written in golang. (2 months ago)
-- [noble-varghese/homebrew-scribe](https://github.com/noble-varghese/homebrew-scribe) -  (2 months ago)
+- [noble-varghese/homebrew-scribe](https://github.com/noble-varghese/homebrew-scribe) -  (3 months ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (4 months ago)
 - [noble-varghese/notes](https://github.com/noble-varghese/notes) -  (5 months ago)
 - [noble-varghese/personal-blog](https://github.com/noble-varghese/personal-blog) - Personal profile for github, (6 months ago)
@@ -38,7 +38,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (4 days ago)
+- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (5 days ago)
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust (1 week ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (3 weeks ago)
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (2 months ago)
