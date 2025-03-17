@@ -22,9 +22,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.36.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.36.0), 1 week ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
-- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.59.7](https://github.com/langfuse/langfuse-python/releases/tag/v2.59.7), 1 week ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.45.0](https://github.com/vectordotdev/vector/releases/tag/v0.45.0), 2 weeks ago) - A high-performance observability data pipeline.
+- [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.36.0](https://github.com/langfuse/langfuse-js/releases/tag/v3.36.0), 2 weeks ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
+- [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) ([v2.59.7](https://github.com/langfuse/langfuse-python/releases/tag/v2.59.7), 2 weeks ago) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.45.0](https://github.com/vectordotdev/vector/releases/tag/v0.45.0), 3 weeks ago) - A high-performance observability data pipeline.
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.30](https://github.com/noble-varghese/scribe/releases/tag/v0.1.30), 2 months ago) - A lightweight cross platform text-expander written in golang.
 
 #### 🔨 My recent Pull Requests
@@ -38,7 +38,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (5 days ago)
+- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (6 days ago)
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust (1 week ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (3 weeks ago)
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (2 months ago)
