@@ -22,7 +22,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.46.0](https://github.com/vectordotdev/vector/releases/tag/v0.46.0), 2 days ago) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.46.0](https://github.com/vectordotdev/vector/releases/tag/v0.46.0), 3 days ago) - A high-performance observability data pipeline.
 - [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) ([v3.37.1](https://github.com/langfuse/langfuse-js/releases/tag/v3.37.1), 1 week ago) - 🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.30](https://github.com/noble-varghese/scribe/releases/tag/v0.1.30), 3 months ago) - A lightweight cross platform text-expander written in golang.
 
