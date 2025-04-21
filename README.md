@@ -22,7 +22,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.46.1](https://github.com/vectordotdev/vector/releases/tag/v0.46.1), 6 days ago) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.46.1](https://github.com/vectordotdev/vector/releases/tag/v0.46.1), 1 week ago) - A high-performance observability data pipeline.
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.30](https://github.com/noble-varghese/scribe/releases/tag/v0.1.30), 4 months ago) - A lightweight cross platform text-expander written in golang.
 
 #### 🔨 My recent Pull Requests
@@ -39,7 +39,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 - [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (1 month ago)
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust (1 month ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (1 month ago)
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (3 months ago)
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (4 months ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (4 months ago)
 
 #### 💬 Feedback
