@@ -36,7 +36,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (1 month ago)
+- [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (1 month ago)
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust (1 month ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (2 months ago)
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (4 months ago)
