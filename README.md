@@ -6,11 +6,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
+- [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool that boosts your productivity by replacing short text shortcuts with longer content. (1 month ago)
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) - A lightweight cross platform text-expander written in golang. (4 months ago)
 - [noble-varghese/homebrew-scribe](https://github.com/noble-varghese/homebrew-scribe) -  (4 months ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (6 months ago)
 - [noble-varghese/notes](https://github.com/noble-varghese/notes) -  (6 months ago)
-- [noble-varghese/personal-blog](https://github.com/noble-varghese/personal-blog) - Personal profile for github, (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,11 +27,11 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔨 My recent Pull Requests
 
+- [fix: creating an empty config file if does not exist](https://github.com/snipt/snipt/pull/1) on [snipt/snipt](https://github.com/snipt/snipt) (1 month ago)
 - [enhancement(http sink): Retrying the HTTP sink in case of 404s and request timeouts](https://github.com/vectordotdev/vector/pull/21457) on [vectordotdev/vector](https://github.com/vectordotdev/vector) (7 months ago)
 - [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 year ago)
 - [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 year ago)
 - [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 year ago)
-- [feat: implementing openai wrapper](https://github.com/langfuse/langfuse-js/pull/114) on [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) (1 year ago)
 
 
 #### ⭐ Recent Stars
