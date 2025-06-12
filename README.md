@@ -10,7 +10,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) - A lightweight cross platform text-expander written in golang. (5 months ago)
 - [noble-varghese/homebrew-scribe](https://github.com/noble-varghese/homebrew-scribe) -  (5 months ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (7 months ago)
-- [noble-varghese/notes](https://github.com/noble-varghese/notes) -  (7 months ago)
+- [noble-varghese/notes](https://github.com/noble-varghese/notes) -  (8 months ago)
 
 #### 🌱 My latest projects
 
