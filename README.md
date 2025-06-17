@@ -22,7 +22,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.47.0](https://github.com/vectordotdev/vector/releases/tag/v0.47.0), 3 weeks ago) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.47.0](https://github.com/vectordotdev/vector/releases/tag/v0.47.0), 4 weeks ago) - A high-performance observability data pipeline.
 - [snipt/snipt](https://github.com/snipt/snipt) ([v0.1.0](https://github.com/snipt/snipt/releases/tag/v0.1.0), 1 month ago) - Snipt is a powerful text snippet expansion tool!
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.30](https://github.com/noble-varghese/scribe/releases/tag/v0.1.30), 5 months ago) - A lightweight cross platform text-expander written in golang.
 
