@@ -9,7 +9,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool! (3 months ago)
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) - A lightweight cross platform text-expander written in golang. (6 months ago)
 - [noble-varghese/homebrew-scribe](https://github.com/noble-varghese/homebrew-scribe) -  (6 months ago)
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (7 months ago)
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (8 months ago)
 - [noble-varghese/notes](https://github.com/noble-varghese/notes) -  (8 months ago)
 
 #### 🌱 My latest projects
@@ -22,14 +22,14 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.48.0](https://github.com/vectordotdev/vector/releases/tag/v0.48.0), 4 days ago) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.48.0](https://github.com/vectordotdev/vector/releases/tag/v0.48.0), 5 days ago) - A high-performance observability data pipeline.
 - [snipt/snipt](https://github.com/snipt/snipt) ([v0.1.0](https://github.com/snipt/snipt/releases/tag/v0.1.0), 1 month ago) - Snipt is a powerful text snippet expansion tool!
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.30](https://github.com/noble-varghese/scribe/releases/tag/v0.1.30), 6 months ago) - A lightweight cross platform text-expander written in golang.
 
 #### 🔨 My recent Pull Requests
 
 - [fix: creating an empty config file if does not exist](https://github.com/snipt/snipt/pull/1) on [snipt/snipt](https://github.com/snipt/snipt) (3 months ago)
-- [enhancement(http sink): Retrying the HTTP sink in case of 404s and request timeouts](https://github.com/vectordotdev/vector/pull/21457) on [vectordotdev/vector](https://github.com/vectordotdev/vector) (8 months ago)
+- [enhancement(http sink): Retrying the HTTP sink in case of 404s and request timeouts](https://github.com/vectordotdev/vector/pull/21457) on [vectordotdev/vector](https://github.com/vectordotdev/vector) (9 months ago)
 - [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 year ago)
 - [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 year ago)
 - [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 year ago)
@@ -38,7 +38,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 #### ⭐ Recent Stars
 
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (3 months ago)
-- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust (3 months ago)
+- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust (4 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (4 months ago)
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (6 months ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (7 months ago)
