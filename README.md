@@ -9,7 +9,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool! (4 months ago)
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) - A lightweight cross platform text-expander written in golang. (7 months ago)
 - [noble-varghese/homebrew-scribe](https://github.com/noble-varghese/homebrew-scribe) -  (7 months ago)
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (8 months ago)
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (9 months ago)
 - [noble-varghese/notes](https://github.com/noble-varghese/notes) -  (9 months ago)
 
 #### 🌱 My latest projects
@@ -29,7 +29,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 #### 🔨 My recent Pull Requests
 
 - [fix: creating an empty config file if does not exist](https://github.com/snipt/snipt/pull/1) on [snipt/snipt](https://github.com/snipt/snipt) (4 months ago)
-- [enhancement(http sink): Retrying the HTTP sink in case of 404s and request timeouts](https://github.com/vectordotdev/vector/pull/21457) on [vectordotdev/vector](https://github.com/vectordotdev/vector) (9 months ago)
+- [enhancement(http sink): Retrying the HTTP sink in case of 404s and request timeouts](https://github.com/vectordotdev/vector/pull/21457) on [vectordotdev/vector](https://github.com/vectordotdev/vector) (10 months ago)
 - [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 year ago)
 - [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 year ago)
 - [feat: Langchain integration tests](https://github.com/langfuse/langfuse-python/pull/527) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 year ago)
@@ -37,9 +37,9 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [frostzt/EnigmaDB](https://github.com/frostzt/EnigmaDB) - A highly-distributed and highly-available NoSQL Database! (today)
+- [frostzt/EnigmaDB](https://github.com/frostzt/EnigmaDB) - A highly-distributed and highly-available NoSQL Database! (1 day ago)
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (4 months ago)
-- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust (4 months ago)
+- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust (5 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (5 months ago)
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (7 months ago)
 
