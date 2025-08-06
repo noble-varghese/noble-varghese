@@ -23,7 +23,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 #### 🔭 Latest releases I've contributed to
 
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.48.0](https://github.com/vectordotdev/vector/releases/tag/v0.48.0), 1 month ago) - A high-performance observability data pipeline.
-- [snipt/snipt](https://github.com/snipt/snipt) ([v0.1.0](https://github.com/snipt/snipt/releases/tag/v0.1.0), 2 months ago) - Snipt is a powerful text snippet expansion tool!
+- [snipt/snipt](https://github.com/snipt/snipt) ([v0.1.0](https://github.com/snipt/snipt/releases/tag/v0.1.0), 3 months ago) - Snipt is a powerful text snippet expansion tool!
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.30](https://github.com/noble-varghese/scribe/releases/tag/v0.1.30), 7 months ago) - A lightweight cross platform text-expander written in golang.
 
 #### 🔨 My recent Pull Requests
@@ -37,7 +37,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [frostzt/EnigmaDB](https://github.com/frostzt/EnigmaDB) - A highly-distributed and highly-available NoSQL Database! (2 days ago)
+- [frostzt/EnigmaDB](https://github.com/frostzt/EnigmaDB) - A highly-distributed and highly-available NoSQL Database! (3 days ago)
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (4 months ago)
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust (5 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (5 months ago)
