@@ -7,7 +7,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 #### 👷 Check out what I'm currently working on
 
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool! (5 months ago)
-- [noble-varghese/scribe](https://github.com/noble-varghese/scribe) - A lightweight cross platform text-expander written in golang. (8 months ago)
+- [noble-varghese/scribe](https://github.com/noble-varghese/scribe) - A lightweight cross platform text-expander written in golang. (9 months ago)
 - [noble-varghese/homebrew-scribe](https://github.com/noble-varghese/homebrew-scribe) -  (9 months ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (10 months ago)
 - [noble-varghese/notes](https://github.com/noble-varghese/notes) -  (11 months ago)
@@ -22,7 +22,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([vdev-v0.1.0](https://github.com/vectordotdev/vector/releases/tag/vdev-v0.1.0), 1 week ago) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([vdev-v0.1.0](https://github.com/vectordotdev/vector/releases/tag/vdev-v0.1.0), 2 weeks ago) - A high-performance observability data pipeline.
 - [snipt/snipt](https://github.com/snipt/snipt) ([v0.1.0](https://github.com/snipt/snipt/releases/tag/v0.1.0), 4 months ago) - Snipt is a powerful text snippet expansion tool!
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.30](https://github.com/noble-varghese/scribe/releases/tag/v0.1.30), 9 months ago) - A lightweight cross platform text-expander written in golang.
 
