@@ -6,7 +6,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
-- [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool! (5 months ago)
+- [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool! (6 months ago)
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) - A lightweight cross platform text-expander written in golang. (9 months ago)
 - [noble-varghese/homebrew-scribe](https://github.com/noble-varghese/homebrew-scribe) -  (9 months ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (10 months ago)
@@ -22,13 +22,13 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.50.0](https://github.com/vectordotdev/vector/releases/tag/v0.50.0), today) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) ([v0.50.0](https://github.com/vectordotdev/vector/releases/tag/v0.50.0), 1 day ago) - A high-performance observability data pipeline.
 - [snipt/snipt](https://github.com/snipt/snipt) ([v0.1.0](https://github.com/snipt/snipt/releases/tag/v0.1.0), 4 months ago) - Snipt is a powerful text snippet expansion tool!
 - [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.30](https://github.com/noble-varghese/scribe/releases/tag/v0.1.30), 9 months ago) - A lightweight cross platform text-expander written in golang.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: creating an empty config file if does not exist](https://github.com/snipt/snipt/pull/1) on [snipt/snipt](https://github.com/snipt/snipt) (5 months ago)
+- [fix: creating an empty config file if does not exist](https://github.com/snipt/snipt/pull/1) on [snipt/snipt](https://github.com/snipt/snipt) (6 months ago)
 - [enhancement(http sink): Retrying the HTTP sink in case of 404s and request timeouts](https://github.com/vectordotdev/vector/pull/21457) on [vectordotdev/vector](https://github.com/vectordotdev/vector) (11 months ago)
 - [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 year ago)
 - [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (1 year ago)
