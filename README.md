@@ -7,8 +7,6 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 #### 👷 Check out what I'm currently working on
 
 - [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool! (8 months ago)
-- [noble-varghese/scribe](https://github.com/noble-varghese/scribe) - A lightweight cross platform text-expander written in golang. (1 year ago)
-- [noble-varghese/homebrew-scribe](https://github.com/noble-varghese/homebrew-scribe) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -21,7 +19,6 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 #### 🔭 Latest releases I've contributed to
 
 - [snipt/snipt](https://github.com/snipt/snipt) ([v0.1.0](https://github.com/snipt/snipt/releases/tag/v0.1.0), 7 months ago) - Snipt is a powerful text snippet expansion tool!
-- [noble-varghese/scribe](https://github.com/noble-varghese/scribe) ([v0.1.30](https://github.com/noble-varghese/scribe/releases/tag/v0.1.30), 1 year ago) - A lightweight cross platform text-expander written in golang.
 
 #### 🔨 My recent Pull Requests
 
