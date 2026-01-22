@@ -6,7 +6,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
-- [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool! (9 months ago)
+- [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool! (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -22,7 +22,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔨 My recent Pull Requests
 
-- [fix: creating an empty config file if does not exist](https://github.com/snipt/snipt/pull/1) on [snipt/snipt](https://github.com/snipt/snipt) (9 months ago)
+- [fix: creating an empty config file if does not exist](https://github.com/snipt/snipt/pull/1) on [snipt/snipt](https://github.com/snipt/snipt) (10 months ago)
 - [enhancement(http sink): Retrying the HTTP sink in case of 404s and request timeouts](https://github.com/vectordotdev/vector/pull/21457) on [vectordotdev/vector](https://github.com/vectordotdev/vector) (1 year ago)
 - [Fix: Fixes empty input in the langchain stream calls](https://github.com/langfuse/langfuse-python/pull/538) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (2 years ago)
 - [fix: adding trace i/o in langfuse openai integration](https://github.com/langfuse/langfuse-python/pull/532) on [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) (2 years ago)
