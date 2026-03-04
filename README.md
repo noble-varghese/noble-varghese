@@ -18,7 +18,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 🔭 Latest releases I've contributed to
 
-- [snipt/snipt](https://github.com/snipt/snipt) ([v0.1.0](https://github.com/snipt/snipt/releases/tag/v0.1.0), 9 months ago) - Snipt is a powerful text snippet expansion tool!
+- [snipt/snipt](https://github.com/snipt/snipt) ([v0.1.0](https://github.com/snipt/snipt/releases/tag/v0.1.0), 10 months ago) - Snipt is a powerful text snippet expansion tool!
 
 #### 🔨 My recent Pull Requests
 
