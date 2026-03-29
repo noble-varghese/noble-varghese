@@ -6,7 +6,6 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### 👷 Check out what I'm currently working on
 
-- [snipt/snipt](https://github.com/snipt/snipt) - Snipt is a powerful text snippet expansion tool! (1 year ago)
 
 #### 🌱 My latest projects
 
