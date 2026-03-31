@@ -29,7 +29,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [frostzt/EnigmaDB](https://github.com/frostzt/EnigmaDB) - [DEPRECATED] A highly-distributed and highly-available NoSQL Database! (7 months ago)
+- [frostzt/EnigmaDB](https://github.com/frostzt/EnigmaDB) - [DEPRECATED] A highly-distributed and highly-available NoSQL Database! (8 months ago)
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (1 year ago)
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust (1 year ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (1 year ago)
