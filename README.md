@@ -29,7 +29,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [DaniAkash/agent-terminal](https://github.com/DaniAkash/agent-terminal) - A terminal that understands AI agents. Project workspaces, live process metrics, and native Claude Code &#43; Codex support. (today)
+- [DaniAkash/agent-terminal](https://github.com/DaniAkash/agent-terminal) - A terminal that understands AI agents. Project workspaces, live process metrics, and native Claude Code &#43; Codex support. (1 day ago)
 - [frostzt/EnigmaDB](https://github.com/frostzt/EnigmaDB) - [DEPRECATED] A highly-distributed and highly-available NoSQL Database! (9 months ago)
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (1 year ago)
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust (1 year ago)
