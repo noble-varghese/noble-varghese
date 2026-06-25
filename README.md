@@ -29,7 +29,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 
 #### ⭐ Recent Stars
 
-- [deepika-builds/motion-vocabulary](https://github.com/deepika-builds/motion-vocabulary) - The Vocabulary of Motion — an interactive glossary of UI animation (96 terms, live demos) &#43; real product dashboards. Next.js &#43; Framer Motion. (2 weeks ago)
+- [deepika-builds/motion-vocabulary](https://github.com/deepika-builds/motion-vocabulary) - The Vocabulary of Motion — an interactive glossary of UI animation (96 terms, live demos) &#43; real product dashboards. Next.js &#43; Framer Motion. (3 weeks ago)
 - [goSprinto/compliance-skills](https://github.com/goSprinto/compliance-skills) -  (1 month ago)
 - [DaniAkash/agent-terminal](https://github.com/DaniAkash/agent-terminal) - A terminal that understands AI agents. Project workspaces, live process metrics, and native Claude Code &#43; Codex support. (1 month ago)
 - [frostzt/EnigmaDB](https://github.com/frostzt/EnigmaDB) - [DEPRECATED] A highly-distributed and highly-available NoSQL Database! (10 months ago)
