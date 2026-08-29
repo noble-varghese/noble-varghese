@@ -33,7 +33,7 @@ I'm Noble Varghese, a passionate Backend developer with a love for innovation an
 - [goSprinto/compliance-skills](https://github.com/goSprinto/compliance-skills) -  (3 months ago)
 - [DaniAkash/agent-terminal](https://github.com/DaniAkash/agent-terminal) - A terminal that understands AI agents. Project workspaces, live process metrics, and native Claude Code &#43; Codex support. (3 months ago)
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (1 year ago)
-- [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust (1 year ago)
+- [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust (2 years ago)
 
 #### 💬 Feedback
 
